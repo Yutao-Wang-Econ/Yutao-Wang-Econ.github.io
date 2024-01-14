@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tong NI (倪童)"
+title                    : "Yutao WANG (王裕韬)"
 title_separator          : "-"
-name                     : &name "Tong NI"
+name                     : &name "Yutao WANG"
 description              : &description "personal description"
-url                      : https://Tong-NI.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Yutao-Wang-Econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Tong-NI/Tong-NI.github.io"
+repository               : "Yutao-Wang-Econ/Yutao-Wang-Econ.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tong NI"
-  avatar           : "profile_nt.jpg"
+  name             : "Yutao WANG"
+  avatar           : "IMG_0165.jpg"
   bio              : "Ph.D. Candidate, School of Economics, Singapore Management University"
   location         : "Singapore"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "tongni.2021@phdecons.smu.edu.sg"
+  email            : "ytwang.2020@phdecons.smu.edu.sg"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
