@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+*Update: 29 July, 2021*
+
+You can download my lastest CV [here](http://Tong-NI.github.io/files/CV29072021.pdf).
 
 Education
 ======
