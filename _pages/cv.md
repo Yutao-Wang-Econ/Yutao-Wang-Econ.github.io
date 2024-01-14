@@ -37,7 +37,7 @@ Please find my CV [here](https://Yutao-Wang-Econ.github.io/files/NEWCV.pdf). (La
 - Scholarships
   - Doctoral Full Scholarship, Ministry of Education, Singapore, 2020-2024
   - National Scholarship for Graduate Students, Ministry of Education, China, 2019
-  - First-tier Academic Scholarship, Southwestern University of Finance and Economics, 2017/2019
+  - First-Tier Academic Scholarship, Southwestern University of Finance and Economics, 2017/2019
 
 ### Service
 - Member of Local Organizing Committee, Annual Meeting of the Society of Economics of the Household, Singapore, 2024
