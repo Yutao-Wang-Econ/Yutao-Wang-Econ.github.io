@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please find my CV [here](Yutao-Wang-Econ.github.io/files/NEWCV.pdf). (Lastest update: October 1, 2023)
+Please find my CV [here](https://Yutao-Wang-Econ.github.io/files/NEWCV.pdf). (Lastest update: October 1, 2023)
 
 ### Teaching and Research Fields
   - International Economics
