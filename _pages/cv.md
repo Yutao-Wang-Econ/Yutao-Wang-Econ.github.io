@@ -10,32 +10,39 @@ redirect_from:
 {% include base_path %}
 Please find my CV [here](https://Yutao-Wang-Econ.github.io/files/NEWCV.pdf). (Lastest update: October 1, 2023)
 
-### Teaching and Research Fields
-  - International Economics
-  - Spatial Economics
+### Teaching and Research Interests
+  - Labor Economics
+  - Economics of the Family
+  - Structural Applied Microeconomics
 
 ### Education
+- Ph.D. in Economics, Singapore Management University, 2020- 2025 (expected)
+- M.S. in Quantitative Economics, Southwestern University of Finance and Economics, 2017-2020
+- B.A. in Economics, Northwest A&F University, 2013-2017
 
-- Ph.D. in Economics, Singapore Management University, 2021- 2026 (expected)
-- M.A. in Economics, Xi'an Jiaotong University, 2018 - 2021
-- Diplôme d'Ingénieur (equivalent to M.Eng.), CentraleSupélec (Univesity of Paris Saclay), 2016 - 2018
-- B.Eng. in Electrical Engineering and Automation, Xi’an Jiaotong University, 2014-2018
+### Conference and Seminar Presentations
+- AASLE Conference, National Taiwan University, Taipei, 2023
+- AMES Conference, Nanyang Technological University, Singapore, 2023
+- Applied Micro Workshop, Singapore Management University, Singapore, 2022
+- GLO Global Conference, Global Labor Organization, Vitural, 2022
+- Forum of Public Economics and Policy, Fudan University, Virutal, 2022
+- SMU Brownbag Workshop Series, Singapore Management University, Singpaore, 2022
 
 ### Honors and Scholarships
 - Hornos and Awards
+  - SMU Presidential Doctoral Fellowship, 2023-2024
   - Best First-Year Student Award, Singapore Management University, 2022
-  - Distinguished Master’s Thesis Award, Xi'an Jiaotong University, 2021
-  - Excellent Postgraduate, Xi'an Jiaotong University, 2020
+  - “Guanghua” Distinguished Master’s Thesis Award, Southwestern University of Finance and Economics, 2020
+  - Distinguished Undergraduate Dissertation Award, Northwest A&F University, 2017
  
 - Scholarships
-  - Doctoral Full Scholarship, Ministry of Education, Singapore, 2021-2025
-  - First-tier Academic Scholarship, Xi’an Jiaotong University, 2018-2021
-  - Eiffel Scholarship, Ministry for Europe and Foreign Affairs, France, 2016 - 2018
-  - UHV Scholarship, State Grid Corporation of China, 2014-2015
+  - Doctoral Full Scholarship, Ministry of Education, Singapore, 2020-2024
+  - National Scholarship for Graduate Students, Ministry of Education, China, 2019
+  - First-tier Academic Scholarship, Southwestern University of Finance and Economics, 2017/2019
 
-### Conference and Seminar Presentations (* for present by coauthors)
-- 2023: CUHK International Trade Workshop*, SMU International Trade Workshop
+### Service
+- Member of Local Organizing Committee, Annual Meeting of the Society of Economics of the Household, Singapore, 2024
 
 ### Skills
-- Matlab, STATA, Python, LaTex
-- English (Fluent), French (Intermediate, B2), Mandarin (Native)
+- Matlab, STATA, R, LaTex
+- English (Fluent), Mandarin Chinese (Native)
