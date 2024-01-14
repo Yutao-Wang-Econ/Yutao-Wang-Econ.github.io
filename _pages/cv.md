@@ -8,55 +8,33 @@ redirect_from:
 ---
 
 {% include base_path %}
-*Update: 29 July, 2021*
 
-You can download my lastest CV [here](http://Tong-NI.github.io/files/CV29072021.pdf).
+### Teaching and Research Fields
+  - International Economics
+  - Spatial Economics
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### Education
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- Ph.D. in Economics, Singapore Management University, 2021- 2026 (expected)
+- M.A. in Economics, Xi'an Jiaotong University, 2018 - 2021
+- Diplôme d'Ingénieur (equivalent to M.Eng.), CentraleSupélec (Univesity of Paris Saclay), 2016 - 2018
+- B.Eng. in Electrical Engineering and Automation, Xi’an Jiaotong University, 2014-2018
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Honors and Scholarships
+- Hornos and Awards
+  - Best First-Year Student Award, Singapore Management University, 2022
+  - Distinguished Master’s Thesis Award, Xi'an Jiaotong University, 2021
+  - Excellent Postgraduate, Xi'an Jiaotong University, 2020
+ 
+- Scholarships
+  - Doctoral Full Scholarship, Ministry of Education, Singapore, 2021-2025
+  - First-tier Academic Scholarship, Xi’an Jiaotong University, 2018-2021
+  - Eiffel Scholarship, Ministry for Europe and Foreign Affairs, France, 2016 - 2018
+  - UHV Scholarship, State Grid Corporation of China, 2014-2015
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### Conference and Seminar Presentations (* for present by coauthors)
+- 2023: CUHK International Trade Workshop*, SMU International Trade Workshop
+
+### Skills
+- Matlab, STATA, Python, LaTex
+- English (Fluent), French (Intermediate, B2), Mandarin (Native)
