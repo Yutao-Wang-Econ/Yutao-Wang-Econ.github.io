@@ -13,6 +13,7 @@ author_profile: true
     </details>
 
 
+
 ### Research Experience
 - Research Assistant for Prof. Pao-Li Chang, Singapore Management University, 2023
 - Research Assistant for Prof. Yuan Mei, Singapore Management University, 2022-2023
