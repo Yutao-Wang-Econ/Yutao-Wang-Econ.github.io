@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 Please find my CV [here](https://Yutao-Wang-Econ.github.io/files/NEWCV.pdf). (Lastest update: October 1, 2023)
 
+<div style="border: 1px solid; border-color: transparent;">
+<iframe src="https://Yutao-Wang-Econ.github.io/files/NEWCV.pdf" width="100%" height="640" frameborder="0"></iframe>
+</div>
+
 ### Teaching and Research Interests
   - Labor Economics
   - Economics of the Family
