@@ -31,7 +31,6 @@ Please find my CV [here](https://Yutao-Wang-Econ.github.io/files/NEWCV.pdf). (La
 ### Honors and Scholarships
 - Hornos and Awards
   - SMU Presidential Doctoral Fellowship, 2023-2024
-  - Best First-Year Student Award, Singapore Management University, 2022
   - “Guanghua” Distinguished Master’s Thesis Award, Southwestern University of Finance and Economics, 2020
   - Distinguished Undergraduate Dissertation Award, Northwest A&F University, 2017
  
