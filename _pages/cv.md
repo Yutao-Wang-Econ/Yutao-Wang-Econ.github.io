@@ -30,7 +30,7 @@ Please find my CV [here](https://Yutao-Wang-Econ.github.io/files/NEWCV.pdf). (La
 - SMU Brownbag Workshop Series, Singapore Management University, Singpaore, 2022
 
 ### Honors and Scholarships
-- Hornos and Awards
+- Honors and Awards
   - SMU Presidential Doctoral Fellowship, 2023-2024
   - “Guanghua” Distinguished Master’s Thesis Award, Southwestern University of Finance and Economics, 2020
   - Distinguished Undergraduate Dissertation Award, Northwest A&F University, 2017
