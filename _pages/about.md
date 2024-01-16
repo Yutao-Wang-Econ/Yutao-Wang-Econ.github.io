@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: "About me"
-
+author_profile: true
 profile:
   align: right
   image: IMG_0165.jpg
