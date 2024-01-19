@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
@@ -44,5 +44,5 @@ Please find my CV [here](https://Yutao-Wang-Econ.github.io/files/NEWCV.pdf). (La
 * Member of Local Organizing Committee, Annual Meeting of the Society of Economics of the Household, Singapore, 2024
 
 ### Skills
-* Matlab, STATA, R, LaTex
+* Matlab, STATA, R, LaTeX, Fortran
 * English (Fluent), Mandarin Chinese (Native)
