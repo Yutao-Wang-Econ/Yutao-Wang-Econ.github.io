@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-------
+
 {% include base_path %}
 Please find my CV [here](https://Yutao-Wang-Econ.github.io/files/NEWCV.pdf). (Lastest update: October 1, 2023)
 
