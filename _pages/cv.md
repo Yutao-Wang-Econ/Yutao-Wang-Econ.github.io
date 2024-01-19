@@ -9,7 +9,7 @@ redirect_from:
 
 
 {% include base_path %}
-Please find my CV [here](https://Yutao-Wang-Econ.github.io/files/CV_Yutao Wang.pdf). (Lastest update: October 1, 2023)
+Please find my CV [here](https://Yutao-Wang-Econ.github.io/files/CV_Yutao Wang.pdf). (Lastest update: Jan 20, 2023)
 
 ------
 ### Teaching and Research Interests
