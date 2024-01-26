@@ -8,7 +8,9 @@ author_profile: true
 
 ------
 ### Working Papers
-- **"Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?"** with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home). (_Submitted_)
+- **"Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?"** with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home).
+
+  **_Submitted_**, 2024
    <details>
    <summary>Abstract</summary>
       The abstract is forthcoming.
@@ -17,7 +19,7 @@ author_profile: true
    
    Conference Presentations (\*: presented by coauthors): AASLE 2023, AMES 2023 (China)\*, AMES 2023 (Singapore), CCER Summer Institute\*, Exeter Diversity and Human Capital Workshop\*, GLO Global Conference 2022, MWIEDC 2023\*, RES 2023\*, SEHO 2023\*.
 
-  [Draft](#Buttons){: .btn--research} /* (/files/pdf/research/xxxxxx.pdf) */ [Slides](#Buttons){: .btn--research}
+  [Draft]{: .btn--research} [Slides]{: .btn--research}
 
 ------
 ### Research Experience
