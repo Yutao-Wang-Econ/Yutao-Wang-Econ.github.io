@@ -12,9 +12,9 @@ author_profile: true
    <details>
    <summary>Abstract</summary>
       The abstract is forthcoming.
-   </details>
-   
-   - Conference Presentations (\*: presented by coauthors): AASLE 2023, AMES 2023 (China)\*, AMES 2023 (Singapore), CCER Summer Institute\*, Exeter Diversity and Human Capital Workshop\*, GLO Global Conference 2022, MWIEDC 2023\*, RES 2023\*, SEHO 2023\*.
+   </details> 
+  Conference Presentations (\*: presented by coauthors): AASLE 2023, AMES 2023 (China)*, AMES 2023 (Singapore), CCER Summer Institute\*, Exeter Diversity and Human Capital Workshop\*, GLO Global Conference 2022, MWIEDC 2023\*, RES 2023\*, SEHO 2023\*.
+
 ------
 ### Research Experience
 - Research Assistant to Prof. Christine Ho, Singapore Management University, 2023-2025
