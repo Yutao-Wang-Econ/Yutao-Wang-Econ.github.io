@@ -15,7 +15,7 @@ author_profile: true
    </details>
    <!-- Medium skip -->
    
-   Conference Presentations (\*: presented by coauthors): AASLE 2023, AMES 2023 (China)\*, AMES 2023 (Singapore), CCER Summer Institute\*, Exeter Diversity and Human Capital Workshop\*, GLO Global Conference 2022, MWIEDC 2023\*, RES 2023\*, SEHO 2023\*.
+   <span style="color: #006692;">Conference Presentations (\*: presented by coauthors):</span> AASLE 2023, AMES 2023 (China)\*, AMES 2023 (Singapore), CCER Summer Institute\*, Exeter Diversity and Human Capital Workshop\*, GLO Global Conference 2022, MWIEDC 2023\*, RES 2023\*, SEHO 2023\*.
 
   [Draft (Coming soon)](#Buttons){: .btn--research} [Slides (Coming soon)](#Buttons){: .btn--research}
 
