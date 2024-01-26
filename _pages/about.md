@@ -15,8 +15,8 @@ I am currently a Ph.D. candidate in the [**School of Economics**](https://econom
 
 ------
 **Research Interests**<br>
-  Economics of the Family, Labor Economics
+  <span style="color: green;">Economics of the Family, Labor Economics</span>
 
 ------
 **Contact Information**<br>
-  Email: ytwang.2020@phdecons.smu.edu.sg
+  Email: [ytwang.2020@phdecons.smu.edu.sg](mailto:ytwang.2020@phdecons.smu.edu.sg)
