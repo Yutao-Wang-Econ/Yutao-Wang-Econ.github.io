@@ -9,11 +9,14 @@ redirect_from:
 ---
 
 **Welcome to my site!** 
+------
 
-I am currently a Ph.D. candidate in the [School of Economics at Singapore Management University (SMU)](https://economics.smu.edu.sg/). My research interests lie in the economics of the family and labor economics. My work involves reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in children, fertility behaviors, and female labor supply.
+I am currently a Ph.D. candidate in the [**School of Economics**](https://economics.smu.edu.sg/), [**Singapore Management University (SMU)**](https://www.smu.edu.sg/). My research interests lie in the economics of the family and labor economics. My work involves reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in children, fertility behaviors, and female labor supply.
 
+------
 **Research Interests**<br>
   Economics of the Family, Labor Economics
 
+------
 **Contact Information**<br>
-	Email: ytwang.2020@phdecons.smu.edu.sg
+  Email: ytwang.2020@phdecons.smu.edu.sg
