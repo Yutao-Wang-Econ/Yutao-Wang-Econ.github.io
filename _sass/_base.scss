@@ -26,12 +26,12 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
-  color: $info-color;
 }
 
 h1 {
   margin-top: 0;
   font-size: $type-size-3;
+  color: $info-color; 
 }
 
 h2 {
