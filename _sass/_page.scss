@@ -46,11 +46,14 @@
 
 .page__lead {
   font-family: $global-font-family;
-  font-size: $type-size-5 $info-color;
+  font-size: $type-size-5;
 }
 
 .page__content {
-
+  h1 {
+  color: $info-color
+  }
+   
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $info-color; /* $border-color; */
