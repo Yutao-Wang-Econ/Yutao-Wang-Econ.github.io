@@ -50,14 +50,9 @@
 }
 
 .page__content {
-  h1 {
-  color: $info-color;
-  }
-   
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid $info-color; /* $border-color; */
-    color: $info-color;
   }
 
   p, li, dl {
@@ -157,6 +152,7 @@
 
     .page__title {
       font-size: $type-size-2;
+      color: $info-color;
 
       @include breakpoint($small) {
         font-size: $type-size-1;
