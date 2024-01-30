@@ -9,8 +9,7 @@ redirect_from:
 
 
 {% include base_path %}
-**Please find a PDF version of my [CV](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .btn--research}. (Lastest update: Jan 20, 2024)**
-[Download CV](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .btn--pdf}
+**Please find a PDF version of my [CV](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .btn--research}. (Lastest update: Jan 20, 2024)**[Download CV <i class="far fa-file-pdf fa-lg"></i>](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .pdf-btn}
 ------
 ### Teaching and Research Interests
   * Labor Economics
