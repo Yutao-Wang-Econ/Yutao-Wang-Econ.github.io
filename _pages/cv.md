@@ -9,7 +9,10 @@ redirect_from:
 
 
 {% include base_path %}
-**Please find a PDF version of my [CV](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .btn--research}. (Lastest update: Jan 20, 2024)**[<i class="fa fa-file-pdf-o" aria-hidden="true">](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf)
+**Please find a PDF version of my [CV](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .btn--research}. (Lastest update: Jan 20, 2024)**
+<a href="[/path/to/cv.pdf](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf)" class="pdf-btn">
+  <i class="far fa-file-pdf fa-lg"></i>
+</a>
 
 ------
 ### Teaching and Research Interests
