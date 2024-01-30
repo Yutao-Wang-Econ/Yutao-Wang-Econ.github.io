@@ -236,4 +236,17 @@
       text-decoration: underline;
     }
   }
+
+  .download-button {
+     display: inline-block;
+     padding: 10px 20px;
+     background-color: #007bff; /* Change to your preferred button color */
+     color: #fff;
+     text-decoration: none;
+     border-radius: 5px;
+   }
+
+   .download-button:hover {
+     background-color: $info-color; /* Change to your preferred hover color */
+   }
 }
