@@ -32,6 +32,7 @@
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
     font-family: $sans-serif-narrow;
+    color: info-color;
   }
 
   h3, h4 {
@@ -74,7 +75,7 @@
   vertical-align: top;
   width: 36px;
   // set width only, for non-square avatars
-  // height: 36px;
+  height: 36px;
 
   @include breakpoint($large) {
     display: block;
