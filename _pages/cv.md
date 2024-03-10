@@ -36,6 +36,7 @@ redirect_from:
 * Honors and Awards
   * SMU Presidential Doctoral Fellowship, 2023-2024
   * “Guanghua” Distinguished Master’s Thesis Award, Southwestern University of Finance and Economics, 2020
+  * SWUFE Outstanding Master's Student Award, 2019
   * Distinguished Undergraduate Dissertation Award, Northwest A&F University, 2017
  
 * Scholarships
