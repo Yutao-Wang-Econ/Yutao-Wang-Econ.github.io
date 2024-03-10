@@ -22,7 +22,7 @@ redirect_from:
 ### Education
 * Ph.D. in Economics, Singapore Management University, 2020- 2025 (expected)
 * M.S. in Quantitative Economics, Southwestern University of Finance and Economics, 2017-2020
-* B.A. in Economics, Northwest A&F University, 2013-2017
+* B.A. in Finance, Northwest A&F University, 2013-2017
 
 ### Conference and Seminar Presentations
 * AASLE Conference, National Taiwan University, Taipei, 2023
