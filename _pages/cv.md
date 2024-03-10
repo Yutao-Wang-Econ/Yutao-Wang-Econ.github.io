@@ -15,6 +15,7 @@ redirect_from:
 ------
 ### Teaching and Research Interests
   * Labor Economics
+  * Development Economics
   * Economics of the Family
   * Structural Applied Microeconomics
 
