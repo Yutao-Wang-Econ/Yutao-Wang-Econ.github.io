@@ -84,8 +84,9 @@
   }
 
   img {
-    max-width: 196px; /* 175px;*/
-    object-fit: cover; /* comment this line if want a non-square photo */
+    max-width: 186px; /*175px;*/
+    border-radius: 10px;
+    /*object-fit: cover;*/ /* comment this line if want a non-square photo */
     /* border-radius: 50%;*/ /* comment this line if want a circle-shape photo */
 
     @include breakpoint($large) {
