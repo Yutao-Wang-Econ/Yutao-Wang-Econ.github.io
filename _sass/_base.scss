@@ -8,7 +8,8 @@ html {
 }
 
 body {
-  margin: 9em;
+  margin-left: 3em; /* YT: Adds margin to the left side */
+  margin-right: 3em; /* YT: Adds margin to the right side */
   padding: 0;
   padding-bottom: 9em;
   color: $text-color;
