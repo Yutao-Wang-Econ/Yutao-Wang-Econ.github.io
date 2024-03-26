@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,24 @@ redirect_from:
   - /about.html
 ---
 
-**<span style="color: #006692;"> Welcome to my site!</span>** 
-------
+<!---  **<span style="color: #006692;"> Welcome to my site!</span>** --->
+<!--- ------ --->
+##  Welcome to my site!
+
 
 I am currently a Ph.D. candidate in the [**School of Economics**](https://economics.smu.edu.sg/), [**Singapore Management University (SMU)**](https://www.smu.edu.sg/). My research interests lie in the economics of the family and labor economics. My work involves reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in children, fertility behaviors, and female labor supply.
 
-------
-**Research Interests**<br>
+<!--- ------ --->
+## Research Interests
   <!-- <span style="color: green;">Economics of the Family, Labor Economics</span> -->
   Economics of the Family, Labor Economics
 
 ## Education
 
-+ <img align="left" decoding="async" src="../images/smu-logo.jpg" width="9%"> &nbsp;&nbsp;&nbsp;Ph.D. student Economics | <small>2020 - Now</small>
-<br>&nbsp;&nbsp;&nbsp; Singapore Management University
+<img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%"> &nbsp;&nbsp;&nbsp;Ph.D. candidate in Economics | <small>2020 - Now</small>
+<br>&nbsp;&nbsp;&nbsp;Singapore Management University
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Christine Ho](https://https://sites.google.com/site/christineho5/)
   
-------
-**Contact Information**<br>
+<!--- ------ --->
+## Contact Information
   Email: [ytwang.2020@phdecons.smu.edu.sg](mailto:ytwang.2020@phdecons.smu.edu.sg)
