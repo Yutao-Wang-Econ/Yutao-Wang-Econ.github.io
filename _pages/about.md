@@ -22,7 +22,7 @@ I am currently a Ph.D. candidate in the [**School of Economics**](https://econom
 
 ## Education
 
-<img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%"> &nbsp;&nbsp;&nbsp;Ph.D. candidate in Economics | <small>2020 - Now</small>
+<img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%"> &nbsp;&nbsp;&nbsp;Ph.D. Candidate in Economics | <small>2020 - Now</small>
 <br>&nbsp;&nbsp;&nbsp;Singapore Management University
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Christine Ho](https://sites.google.com/site/christineho5/)
   
