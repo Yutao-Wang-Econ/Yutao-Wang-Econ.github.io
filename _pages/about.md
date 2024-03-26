@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Welcome to my site!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 <!---  **<span style="color: #006692;"> Welcome to my site!</span>** --->
 <!--- ------ --->
-##  Welcome to my site!
+<!---##  Welcome to my site! --->
 
 
 I am currently a Ph.D. candidate in the [**School of Economics**](https://economics.smu.edu.sg/), [**Singapore Management University (SMU)**](https://www.smu.edu.sg/). My research interests lie in the economics of the family and labor economics. My work involves reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in children, fertility behaviors, and female labor supply.
@@ -24,7 +24,7 @@ I am currently a Ph.D. candidate in the [**School of Economics**](https://econom
 
 <img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%"> &nbsp;&nbsp;&nbsp;Ph.D. candidate in Economics | <small>2020 - Now</small>
 <br>&nbsp;&nbsp;&nbsp;Singapore Management University
-<br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Christine Ho](https://https://sites.google.com/site/christineho5/)
+<br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Christine Ho](https://sites.google.com/site/christineho5/)
   
 <!--- ------ --->
 ## Contact Information
