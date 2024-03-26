@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,6 +17,12 @@ I am currently a Ph.D. candidate in the [**School of Economics**](https://econom
 **Research Interests**<br>
   <!-- <span style="color: green;">Economics of the Family, Labor Economics</span> -->
   Economics of the Family, Labor Economics
+
+## Education
+
++ <img align="left" decoding="async" src="../images/smu-logo.jpg" width="9%"> &nbsp;&nbsp;&nbsp;Ph.D. student Economics | <small>2020 - Now</small>
+<br>&nbsp;&nbsp;&nbsp; Singapore Management University
+<br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Christine Ho](https://https://sites.google.com/site/christineho5/)
   
 ------
 **Contact Information**<br>
