@@ -17,12 +17,14 @@ $serif                      : Constania, Palatino, Book Antiqua, Palatino Linoty
 /*
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 */
-$sans-serif                 : "Century Gothic", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Century Gothic", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; /* YT: cute font */
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
 $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
+$CenturyGothic              : "Century Gothic"; /* YT: cute font */
+$Futura                     : Futura, "Trebuchet MS", Arial, sans-serif; /* YT: cute font */
 
 /* serif typefaces */
 $georgia                    : Georgia, serif;
