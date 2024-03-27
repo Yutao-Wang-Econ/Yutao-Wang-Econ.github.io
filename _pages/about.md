@@ -17,11 +17,11 @@ Welcome to my site! I am currently a Ph.D. candidate in the [School of Economics
 Here is my [CV](../files/CV_Yutao_Wang.pdf). You can reach me at [ytwang.2020@phdecons.smu.edu.sg](mailto:ytwang.2020@phdecons.smu.edu.sg).
 
 <!--- ------ --->
-# Research Interests
+## Research Interests
   <!-- <span style="color: green;">Economics of the Family, Labor Economics</span> -->
   Labor Economics, Economics of the Family, Development Economics, Economics of Gender
 
-# Education
+## Education
 <img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%"> &nbsp;&nbsp;&nbsp;Ph.D. Candidate in Economics | <small>2020 - Now</small>
 <br>&nbsp;&nbsp;&nbsp;Singapore Management University
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Christine Ho](https://sites.google.com/site/christineho5/)
