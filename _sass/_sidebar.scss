@@ -73,9 +73,12 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  // width: 36px;
   // set width only, for non-square avatars
   // height: 36px;
+  width: 200px;
+  // set width only, for non-square avatars
+  height: 236px;
 
   @include breakpoint($large) {
     display: block;
@@ -84,14 +87,14 @@
   }
 
   img {
-    max-width: 366px; /*175px;*/
-    border-radius: 0; /* for retangular photo */
+    // max-width: 366px; /*175px;*/
+    // border-radius: 0; /* for retangular photo */
     /*object-fit: cover;*/ /* comment this line if want a non-square photo */
     /* border-radius: 50%;*/ /* comment this line if want a circle-shape photo */
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      // border: 1px solid $border-color;
     }
   }
 }
