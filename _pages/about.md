@@ -13,6 +13,7 @@ redirect_from:
 <!---##  Welcome to my site! --->
 
 
+------
 Welcome to my site! I am currently a Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/), [Singapore Management University (SMU)](https://www.smu.edu.sg/). My research interests lie in the economics of the family and labor economics. My work involves reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in child quantity and quality, fertility behaviors, and female labor supply.
 
 Here is my [CV](../files/CV_Yutao_Wang.pdf). You can reach me at [ytwang.2020@phdecons.smu.edu.sg](mailto:ytwang.2020@phdecons.smu.edu.sg).
