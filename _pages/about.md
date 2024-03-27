@@ -11,9 +11,6 @@ redirect_from:
 <!---  **<span style="color: #006692;"> Welcome to my site!</span>** --->
 <!--- ------ --->
 <!---##  Welcome to my site! --->
-
-
-------
 ### Bio
 Welcome to my site! I am currently a Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/), [Singapore Management University (SMU)](https://www.smu.edu.sg/). My research interests lie in the economics of the family and labor economics. My work involves reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in child quantity and quality, fertility behaviors, and female labor supply.
 
