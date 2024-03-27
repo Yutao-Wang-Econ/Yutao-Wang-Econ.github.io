@@ -28,6 +28,6 @@ author_profile: true
 
 ------
 ### Pre-Doctoral Publication
-**Child Migration and the Labor Supply of Migrant Mothers**  
+- **Child Migration and the Labor Supply of Migrant Mothers**  
 (with Kaizhi Yu and Hong Zou)  
 _Statistical Research (in Chinese), 2022_
