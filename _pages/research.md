@@ -8,11 +8,9 @@ author_profile: true
 
 ------
 ### Working Papers
-- **Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?**
-
-  (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))
-  
-   _Submitted_
+- **Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?**  
+  (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))  
+  _Submitted_
    <details>
    <summary>Abstract</summary>
       The abstract is coming soon.
@@ -30,8 +28,6 @@ author_profile: true
 
 ------
 ### Pre-Doctoral Publication
-**Child Migration and the Labor Supply of Migrant Mothers**
-
-(with Kaizhi Yu and Hong Zou)
-
-_Statistical Research (in Chinese)_
+**Child Migration and the Labor Supply of Migrant Mothers**  
+(with Kaizhi Yu and Hong Zou)  
+_Statistical Research (in Chinese), 2022_
