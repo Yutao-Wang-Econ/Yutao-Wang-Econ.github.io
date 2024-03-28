@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YUTAO WANG"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -28,10 +28,12 @@ Here is my [CV](../files/CV_Yutao_Wang.pdf). You can reach me at [ytwang.2020@ph
   <!-- <span style="color: green;">Economics of the Family, Labor Economics</span> -->
   Labor Economics, Economics of the Family, Development Economics, Economics of Gender
 
+<!---
 ### Education
 <img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%"> &nbsp;&nbsp;&nbsp;Ph.D. Candidate in Economics | <small>2020 - Now</small>
 <br>&nbsp;&nbsp;&nbsp;Singapore Management University
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Christine Ho](https://sites.google.com/site/christineho5/)
+--->
   
 <!--- ------ 
 ## Contact Information
