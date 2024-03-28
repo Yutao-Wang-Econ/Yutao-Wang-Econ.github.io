@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YUTAO WANG"
+title: "YUTAO WANG <img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%">"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
