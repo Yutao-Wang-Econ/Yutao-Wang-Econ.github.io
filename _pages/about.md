@@ -35,7 +35,7 @@ Here is my [CV](../files/CV_Yutao_Wang.pdf). You can reach me at [ytwang.2020@ph
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Christine Ho](https://sites.google.com/site/christineho5/)
 --->
   
-
+<!---
 ### Contact Information
   Email: [ytwang.2020@phdecons.smu.edu.sg](mailto:ytwang.2020@phdecons.smu.edu.sg)
-
+--->
