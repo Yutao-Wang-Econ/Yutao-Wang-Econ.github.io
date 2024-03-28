@@ -1,18 +1,18 @@
 ---
 permalink: /
-title: ""
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%"><br> 
+<!--- <img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%"><br>  --->
 
 <!---  **<span style="color: #006692;"> Welcome to my site!</span>** --->
 
 <!---##  Welcome to my site! --->   
-<br>
+
 
 ------
 
@@ -35,7 +35,7 @@ Here is my [CV](../files/CV_Yutao_Wang.pdf). You can reach me at [ytwang.2020@ph
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Christine Ho](https://sites.google.com/site/christineho5/)
 --->
   
-<!--- ------ 
-## Contact Information
+
+### Contact Information
   Email: [ytwang.2020@phdecons.smu.edu.sg](mailto:ytwang.2020@phdecons.smu.edu.sg)
---->
+
