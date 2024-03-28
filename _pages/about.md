@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "YUTAO WANG <img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%">"
+title: "YUTAO WANG"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%">
 <!---  **<span style="color: #006692;"> Welcome to my site!</span>** --->
 ------
 <!---##  Welcome to my site! --->
