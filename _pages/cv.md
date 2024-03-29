@@ -13,7 +13,7 @@ redirect_from:
 **Please find a PDF version of my <a href="../files/CV_Yutao_Wang.pdf" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-pdf"></i>CV</a> (Lastest update: Jan 20, 2024)**
 <!--- [CV](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .btn--research}. --->
- 
+  
 ------
 ### Teaching and Research Interests
   * Labor Economics
