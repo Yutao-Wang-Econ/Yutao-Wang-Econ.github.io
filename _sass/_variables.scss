@@ -13,7 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
       
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
+$serif                        : "PT Sans", Georgia, Times, serif; /* YT: alter font style */
+//$serif                      : Georgia, Times, serif;
                               /* Constania, Palatino, Book Antiqua, Palatino Linotype, Palatino LT STD, Georgia, Times, serif; */   
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 /*
@@ -27,16 +28,44 @@ $helvetica                  : Helvetica, "Helvetica Neue", Arial, sans-serif;
 $CenturyGothic              : "Century Gothic"; /* YT: cute font */
 $Futura                     : Futura, "Trebuchet MS", Arial, sans-serif; /* YT: cute font */
 
-/* serif typefaces */
+/* serif typefaces 
 $georgia                    : Georgia, serif;
 $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
+*/
 
-$global-font-family         : $sans-serif; /*$serif;*/
-$header-font-family         : $sans-serif; /*$serif;*/
-$caption-font-family        : $serif;
+/* serif typefaces */
+$georgia: "PT Sans", serif;
+$times: "PT Sans", serif;
+$bodoni: "Bodoni MT", serif;
+$calisto: "Calisto MT", serif;
+$garamond: "Garamond", serif;
+
+/* Font Files */
+@font-face {
+  font-family: "PT Sans";
+  src: local('PT Sans'), local('PTSans-Regular'), url('../assets/fonts/PTSans-Regular.woff') format('woff'); /* Path to the regular font file */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PT Sans";
+  src: local('PT Sans Bold'), local('PTSans-Bold'), url('../assets/fonts/PTSans-Bold.woff') format('woff'); /* Path to the bold font file */
+  font-weight: bold;
+  font-style: normal;
+}
+
+//$global-font-family         : $sans-serif; /*$serif;*/
+//$header-font-family         : $sans-serif; /*$serif;*/
+//$caption-font-family        : $serif;
+
+/* Apply Font Families */
+$global-font-family: "PTSans-Regular", $sans-serif; /* Default font */
+$header-font-family: "PTSans-Regular", $sans-serif; /* Default font */
+$caption-font-family: "PTSans-Bold", $serif; /* Bold font for captions */
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
