@@ -30,6 +30,14 @@ redirect_from:
 * <a href="https://yutao-wang-econ.github.io/research/" target="_blank" rel="noopener noreferrer">
   <i class="fa fa-link"></i>See Research</a>
 
+### Research Experience
+* <a href="https://yutao-wang-econ.github.io/research/" target="_blank" rel="noopener noreferrer">
+  <i class="fa fa-link"></i>See Research</a>
+
+### Teaching Experience
+* <a href="https://yutao-wang-econ.github.io/teaching/" target="_blank" rel="noopener noreferrer">
+  <i class="fa fa-link"></i>See Teaching</a>
+
 ### Conference and Seminar Presentations (Including Scheduled)
 * AMES China, Zhejiang University, Zhejiang University, China, 2024
 * SEHO Annual Meeting, Singapore Management University, Singpaore, 2024
