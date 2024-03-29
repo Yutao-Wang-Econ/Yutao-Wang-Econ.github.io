@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- 
 <!--- <img align="left" decoding="async" src="../images/smu-logo.jpg" width="20%"><br>  --->
 
 <!---  **<span style="color: #006692;"> Welcome to my site!</span>** --->
