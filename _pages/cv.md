@@ -10,10 +10,11 @@ redirect_from:
 
 {% include base_path %}
 
-**Please find a PDF version of my [CV](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .btn--research}. (Lastest update: Jan 20, 2024)**
-<a href="path/to/your-cv.pdf" target="_blank" rel="noopener noreferrer">
-  <i class="fas fa-file"></i> Download CV (PDF)
-</a>
+**Please find a PDF version of my <a href="../files/CV_Yutao_Wang.pdf.pdf" target="_blank" rel="noopener noreferrer">
+  <i class="fas fa-file"></i> CV
+</a>(Lastest update: Jan 20, 2024)**
+<!--- [CV](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .btn--research}. --->
+
 ------
 ### Teaching and Research Interests
   * Labor Economics
