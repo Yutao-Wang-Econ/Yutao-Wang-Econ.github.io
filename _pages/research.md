@@ -27,7 +27,7 @@ author_profile: true
 
 ------
 ### Research Experience
-- Research Assistant to Prof. Christine Ho, Singapore Management University, 2023-2025
+- Research Assistant to Prof. Christine Ho, Singapore Management University, 2022-2024
 - Research Assistant to Prof. Jing Li, Singapore Management University, 2021
 
 ------
