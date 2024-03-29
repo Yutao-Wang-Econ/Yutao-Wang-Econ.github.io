@@ -31,7 +31,7 @@ redirect_from:
   <i class="fa fa-link"></i>See Research</a>
 
 ### Conference and Seminar Presentations (Including Scheduled)
-* Zhejiang University, Zhejiang University, China, 2024
+* AMES China, Zhejiang University, Zhejiang University, China, 2024
 * SEHO Annual Meeting, Singapore Management University, Singpaore, 2024
 * AASLE Conference, National Taiwan University, Taipei, 2023
 * AMES Conference, Nanyang Technological University, Singapore, 2023
