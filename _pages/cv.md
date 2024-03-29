@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-**Please find a PDF version of my <a href="../files/CV_Yutao_Wang.pdf.pdf" target="_blank" rel="noopener noreferrer">
+**Please find a PDF version of my <a href="https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf.pdf" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file"></i> CV
 </a>(Lastest update: Jan 20, 2024)**
 <!--- [CV](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .btn--research}. --->
