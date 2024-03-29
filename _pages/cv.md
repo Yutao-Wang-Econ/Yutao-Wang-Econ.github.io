@@ -26,7 +26,13 @@ redirect_from:
 * M.S. in Quantitative Economics, Southwestern University of Finance and Economics, 2017-2020
 * B.A. in Finance, Northwest A&F University, 2013-2017
 
-### Conference and Seminar Presentations
+### Publications, Working Papers, and Selected Work in Progress
+* <a href="https://yutao-wang-econ.github.io/research/" target="_blank" rel="noopener noreferrer">
+  <i class="fa fa-link"></i>See Research</a>
+
+### Conference and Seminar Presentations (Including Scheduled)
+* Zhejiang University, Zhejiang University, China, 2024
+* SEHO Annual Meeting, Singapore Management University, Singpaore, 2024
 * AASLE Conference, National Taiwan University, Taipei, 2023
 * AMES Conference, Nanyang Technological University, Singapore, 2023
 * Applied Micro Workshop, Singapore Management University, Singapore, 2022
