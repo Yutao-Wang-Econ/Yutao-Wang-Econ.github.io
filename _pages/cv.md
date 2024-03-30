@@ -27,10 +27,8 @@ redirect_from:
 * B.A. in Finance, Northwest A&F University, 2013-2017
 
 ### Publications, Working Papers, and Selected Work in Progress
-* <a href = "_blank" target="_blank" rel="noopener noreferrer">
-  <i class="fa fa-link"></i></a> 
-  
-  [See Research](https://yutao-wang-econ.github.io/research/)
+* <a href="https://yutao-wang-econ.github.io/research/" target="_blank" rel="noopener noreferrer">
+  <i class="fa fa-link"></i>See Research</a>
 
 ### Research Experience
 * <a href="https://yutao-wang-econ.github.io/research/" target="_blank" rel="noopener noreferrer">
