@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yutao WANG"
   avatar           : "IMG_0165_long1.jpg"
-  bio              : "Ph.D. Candidate, School of Economics, Singapore Management University"
+  bio              : "Ph.D. Candidate, <-br>School of Economics, <-br>Singapore Management University"
   location         : "Singapore"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
