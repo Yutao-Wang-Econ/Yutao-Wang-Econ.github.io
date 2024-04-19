@@ -46,7 +46,7 @@ redirect_from:
 * Applied Micro Workshop, Singapore Management University, Singapore, 2022
 * GLO Global Conference, Global Labor Organization, Vitural, 2022
 * Forum of Public Economics and Policy, Fudan University, Virutal, 2022
-* SMU Brownbag Workshop Series, Singapore Management University, Singpaore, 2022
+* SMU Brownbag Workshop Series, Singapore Management University, Singapore, 2022
 
 ### Honors and Scholarships
 * Honors and Awards
