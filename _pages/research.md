@@ -25,6 +25,24 @@ author_profile: true
   <a href="" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
 
+
+
+- **Social Institutions and Low Birth Rates: Quantitative Evidence from South Korea and the United States**  
+  (with [Christine Ho](https://sites.google.com/site/christineho5))  
+  
+   <details>
+   <summary>Abstract</summary>
+      Abstract is coming soon.
+   </details>
+   <!-- Medium skip -->
+   
+   <span style="color: #006692;">Conference Presentations :</span> SEHO 2024.
+
+  <!--- [Draft (Coming soon)](#Buttons){: .btn--research} [Slides (Coming soon)](#Buttons){: .btn--research} --->
+  <a href="" target="_blank" rel="noopener noreferrer">
+  <i class="fas fa-file-pdf"></i> Draft (Coming soon)</a>
+  <a href="" target="_blank" rel="noopener noreferrer">
+  <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
 ------
 ### Research Experience
 - Research Assistant to Prof. Christine Ho, Singapore Management University, 2022-2024
