@@ -24,12 +24,9 @@ author_profile: true
   <i class="fas fa-file-pdf"></i> Draft (Coming soon)</a>
   <a href="" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
-
-
-
+  
 - **Social Institutions and Low Birth Rates: Quantitative Evidence from South Korea and the United States**  
   (with [Christine Ho](https://sites.google.com/site/christineho5))  
-  
    <details>
    <summary>Abstract</summary>
       Abstract is coming soon.
