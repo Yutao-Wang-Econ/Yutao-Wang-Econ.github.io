@@ -43,6 +43,7 @@ author_profile: true
   <i class="fas fa-file-pdf"></i> Draft (Coming soon)</a>
   <a href="" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
+  
 ------
 ### Research Experience
 - Research Assistant to Prof. Christine Ho, Singapore Management University, 2022-2024
