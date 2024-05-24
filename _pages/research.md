@@ -13,8 +13,7 @@ author_profile: true
   _Submitted_
    <details>
    <summary>Abstract</summary>
-      Daughters may be less likely to migrate with parents because they tend to have more siblings in societies with strong son preference. Exploiting exogenous variation in twinning as an instrument, we find that a one unit increase in family size decreases the probability that a daughter migrates by 12.5 percentage points but has negligible effects on sons in China. The negative associations for daughters are stronger when migration restrictions are more stringent. The results are indicative of gendered family size trade-offs in a novel aspect of parental in
-vestment and highlight the need to relax migrant children’s education constraints.
+      Daughters may be less likely to migrate with parents because they tend to have more siblings in societies with strong son preference. Exploiting exogenous variation in twinning as an instrument, we find that a one unit increase in family size decreases the probability that a daughter migrates by 12.5 percentage points but has negligible effects on sons in China. The negative associations for daughters are stronger when migration restrictions are more stringent. The results are indicative of gendered family size trade-offs in a novel aspect of parental investment and highlight the need to relax migrant children’s education constraints.
    </details>
    <!-- Medium skip -->
    
