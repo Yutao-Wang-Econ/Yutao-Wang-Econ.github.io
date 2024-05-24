@@ -12,7 +12,7 @@ author_profile: true
 
 ### Tutorial Instructor, Singapore Management University
 - Demonstration Tutorial Class: Demographic and Family Economics (Undergraduate), Fall 2022 & 2023
-- Teaching evaluations (7-point scale: 5 = "Good," 6 = "Very Good"): 5.895/7 (2022), 5.963/7 (2023)
+- Teaching Evaluations (7-point scale: 5 = "Good," 6 = "Very Good"): 5.895/7 (2022), 5.963/7 (2023)
 
 ### Teaching Assistant, Southwestern University of Finance and Economics
 - Econometrics (Undergraduate), Fall 2019
