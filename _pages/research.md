@@ -48,8 +48,8 @@ author_profile: true
 
 ------
 ### Work in Progress
-**One-Child Policy, Education Attainment, and Parental Monetary Investments**  
-  
+- **One-Child Policy, Education Attainment, and Parental Monetary Investments**  
+ 
 ------
 ### Research Experience
 - Research Assistant to Prof. Christine Ho, Singapore Management University, 2022-2024
