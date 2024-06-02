@@ -21,7 +21,7 @@ author_profile: true
 
   <!--- [Draft](#Buttons){: .btn--research} [Slides (Coming soon)](#Buttons){: .btn--research} --->
   <a href="https://ink.library.smu.edu.sg/soe_research/2750/" target="_blank" rel="noopener noreferrer">
-  <i class="fas fa-file-pdf"></i> Draft (Coming soon)</a>
+  <i class="fas fa-file-pdf"></i> Draft</a>
   <a href="" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
   
