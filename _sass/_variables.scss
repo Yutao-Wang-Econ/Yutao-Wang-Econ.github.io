@@ -12,7 +12,7 @@ $doc-font-size              : 16;
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
-
+/*=====
 /* Lato Fonts */
 /** Light: 300 **/
 @font-face {
@@ -52,7 +52,7 @@ $indent-var                 : 1.3em;
     font-style: italic;
     src: url("https://yutao-wang-econ.github.io/assets/fonts/Lato-BoldItalic.woff2") format("woff2"), url("https://yutao-wang-econ.github.io/assets/fonts/Lato-BoldItalic.woff") format("woff");
 }
-   
+=====*/   
 /* system typefaces */
 $serif                        : "PT Sans", Georgia, Times, serif; /* YT: alter font style */
 //$serif                      : Georgia, Times, serif;
