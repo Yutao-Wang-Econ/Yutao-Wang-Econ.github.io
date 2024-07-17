@@ -11,7 +11,49 @@ $doc-font-size              : 16;
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
-      
+
+
+/* Lato Fonts */
+/** Light: 300 **/
+@font-face {
+    font-family: "Lato";
+    font-weight: 300;
+    src: url("https://yutao-wang-econ.github.io/assets/fonts/lato-light-webfont.woff2") format("woff2"), url("https://yutao-wang-econ.github.io/assets/fonts/lato-light-webfont.woff") format("woff");
+}
+/** Regular: 400 **/
+@font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    src: url("https://yutao-wang-econ.github.io/assets/fonts/lato-regular-webfont.woff2") format("woff2"), url("https://yutao-wang-econ.github.io/assets/fonts/lato-regular-webfont.woff") format("woff");
+}
+/** Bold: 700 **/
+@font-face {
+    font-family: "Lato";
+    font-weight: 700;
+    src: url("https://yutao-wang-econ.github.io/assets/fonts/lato-bold-webfont.woff2") format("woff2"), url("https://yutao-wang-econ.github.io/assets/fonts/lato-bold-webfont.woff") format("woff");
+}
+@font-face {
+    font-family: "Lato";
+    font-weight: 300;
+    font-style: italic;
+    src: url("https://yutao-wang-econ.github.io/assets/fonts/Lato-LightItalic.woff2") format("woff2"), url("https://yutao-wang-econ.github.io/assets/fonts/Lato-LightItalic.woff") format("woff");
+}
+/** Regular: 400 **/
+@font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    font-style: italic;
+    src: url("https://yutao-wang-econ.github.io/assets/fonts/Lato-Italic.woff2") format("woff2"), url("https://yutao-wang-econ.github.io/assets/fonts/Lato-Italic.woff") format("woff");
+}
+/** Bold: 700 **/
+@font-face {
+    font-family: "Lato";
+    font-weight: 700;
+    font-style: bold;
+    font-style: italic;
+    src: url("https://yutao-wang-econ.github.io/assets/fonts/Lato-BoldItalic.woff2") format("woff2"), url("https://yutao-wang-econ.github.io/assets/fonts/Lato-BoldItalic.woff") format("woff");
+}
+   
 /* system typefaces */
 $serif                        : "PT Sans", Georgia, Times, serif; /* YT: alter font style */
 //$serif                      : Georgia, Times, serif;
