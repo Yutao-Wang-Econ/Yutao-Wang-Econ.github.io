@@ -24,7 +24,7 @@ redirect_from:
 ### Education
 * Ph.D. in Economics, Singapore Management University, 2020- 2025 (expected)
 * M.S. in Quantitative Economics, Southwestern University of Finance and Economics, 2017-2020
-* B.A. in Finance, Northwest A&F University, 2013-2017
+* B.Econ. in Finance, Northwest A&F University, 2013-2017
 
 ### Publications, Working Papers, and Selected Work in Progress
 * <a href="https://yutao-wang-econ.github.io/research/" target="_blank" rel="noopener noreferrer">
@@ -50,6 +50,7 @@ redirect_from:
 
 ### Honors and Scholarships
 * Honors and Awards
+  * SMU Presidential Doctoral Fellowship, 2024-2025
   * SMU Presidential Doctoral Fellowship, 2023-2024
   * “Guanghua” Distinguished Master’s Thesis Award, Southwestern University of Finance and Economics, 2020
   * Outstanding Master's Student Award, Southwestern University of Finance and Economics, 2019
