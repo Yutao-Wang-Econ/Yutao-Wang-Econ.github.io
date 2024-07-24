@@ -57,7 +57,8 @@ $indent-var                 : 1.3em;
 $serif                        : "PT Sans", Georgia, Times, serif; /* YT: alter font style */
 //$serif                      : Georgia, Times, serif;
                               /* Constania, Palatino, Book Antiqua, Palatino Linotype, Palatino LT STD, Georgia, Times, serif; */   
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Lato", ".SFNSText-Regular", -apple-system, "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+/*$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;*/
 /*
 $sans-serif                 : "Century Gothic", "Helvetica Neue", "Lucida Grande", Arial, sans-serif; 
 */ /* YT: cute font */
