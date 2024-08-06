@@ -8,7 +8,7 @@ author_profile: true
 
 ------
 ### Working Papers
-- **Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?**  
+- [**Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?**](https://ink.library.smu.edu.sg/soe_research/2750/)
   (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))  
   _Submitted_
    <details>
