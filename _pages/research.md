@@ -10,7 +10,7 @@ author_profile: true
 ### Working Papers
 - [**Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?**](https://ink.library.smu.edu.sg/soe_research/2750/)
   (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))  
-  _Submitted_
+  _Submitted_ **<span style="color: #a60000;"> New Draft!</span>**
    <details>
    <summary>Abstract</summary>
      Daughters may be less likely to migrate with parents because they tend to have more siblings in societies with strong son preference. Exploiting exogenous variation in twinning, we find that a one unit increase in family size decreases the probability that a daughter migrates by 12.5 percentage points—with stronger negative associations when migration restrictions are more stringent—but has negligible effects on sons in China. The results are indicative of family size trade-offs in a novel aspect of parental investment and highlight the need for gender-neutral relaxation of migration constraints to mitigate the gendered family size trade-offs.
