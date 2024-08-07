@@ -21,7 +21,7 @@ author_profile: true
    <span style="color: #006692;">Conference Presentations (\*: presented by coauthors):</span> AMES 2024 (Ho Chi Minh)\*, AMES 2024 (Hangzhou), AASLE 2023, AMES 2023 (Beijing)\*, AMES 2023 (Singapore), CCER Summer Institute\*, MWIEDC 2023\*, RES 2023\*, SEHO 2023\*, Exeter Diversity and Human Capital Workshop\*, GLO Global Conference 2022.
 
   <!--- [Draft <span style="color: #a60000;"> New Draft!</span>](#Buttons){: .btn--research} [Slides (Coming soon)](#Buttons){: .btn--research} --->
-  <a href="https://ink.library.smu.edu.sg/soe_research/2750/" target="_blank" rel="noopener noreferrer">
+  <a href="https://Yutao-Wang-Econ.github.io/files/Ho, Wang, and Zuo (2024) Family Size and Child Migration.pdf" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-pdf"></i> Draft <span style="color: #a60000;"> (New!)</span></a>
   <a href="" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
