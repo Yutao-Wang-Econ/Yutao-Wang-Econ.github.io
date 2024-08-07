@@ -22,7 +22,7 @@ author_profile: true
 
   <!--- [Draft <span style="color: #a60000;"> New Draft!</span>](#Buttons){: .btn--research} [Slides (Coming soon)](#Buttons){: .btn--research} --->
   <a href="https://ink.library.smu.edu.sg/soe_research/2750/" target="_blank" rel="noopener noreferrer">
-  <i class="fas fa-file-pdf"></i> Draft (New draft coming soon)</a>
+  <i class="fas fa-file-pdf"></i> Draft <span style="color: #a60000;"> (New!)</span></a>
   <a href="" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
   
