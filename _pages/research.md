@@ -9,7 +9,7 @@ author_profile: true
 ------
 ### Working Papers
 - [**Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?**](https://ink.library.smu.edu.sg/soe_research/2750/)
-  (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))_**<span style="color: #a60000;"> (New draft!)</span>**_
+  (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))_**<span style="color: #a60000;"> (New Draft!)</span>**_
    
   **_Submitted_** 
    <details>
@@ -18,7 +18,7 @@ author_profile: true
    </details>
    <!-- Medium skip -->
    
-   <span style="color: #006692;">Conference Presentations (\*: presented by coauthors):</span> AMES 2024 (Ho Chi Minh)\*, AMES 2024 (Hangzhou), AASLE 2023, AMES 2023 (Beijing)\*, AMES 2023 (Singapore), CCER Summer Institute\*, Exeter Diversity and Human Capital Workshop\*, GLO Global Conference 2022, MWIEDC 2023\*, RES 2023\*, SEHO 2023\*.
+   <span style="color: #006692;">Conference Presentations (\*: presented by coauthors):</span> AMES 2024 (Ho Chi Minh)\*, AMES 2024 (Hangzhou), AASLE 2023, AMES 2023 (Beijing)\*, AMES 2023 (Singapore), CCER Summer Institute\*, MWIEDC 2023\*, RES 2023\*, SEHO 2023\*, Exeter Diversity and Human Capital Workshop\*, GLO Global Conference 2022.
 
   <!--- [Draft <span style="color: #a60000;"> New Draft!</span>](#Buttons){: .btn--research} [Slides (Coming soon)](#Buttons){: .btn--research} --->
   <a href="https://ink.library.smu.edu.sg/soe_research/2750/" target="_blank" rel="noopener noreferrer">
