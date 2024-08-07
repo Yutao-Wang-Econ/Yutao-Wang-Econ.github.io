@@ -9,8 +9,9 @@ author_profile: true
 ------
 ### Working Papers
 - [**Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?**](https://ink.library.smu.edu.sg/soe_research/2750/)
-  (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))  
-  _Submitted_ **<span style="color: #a60000;"> New Draft!</span>**
+  (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))  **<span style="color: #a60000;"> New Draft!</span>**
+    
+  **_Submitted_** 
    <details>
    <summary>Abstract</summary>
      Daughters may be less likely to migrate with parents because they tend to have more siblings in societies with strong son preference. Exploiting exogenous variation in twinning, we find that a one unit increase in family size decreases the probability that a daughter migrates by 12.5 percentage points—with stronger negative associations when migration restrictions are more stringent—but has negligible effects on sons in China. The results are indicative of family size trade-offs in a novel aspect of parental investment and highlight the need for gender-neutral relaxation of migration constraints to mitigate the gendered family size trade-offs.
@@ -19,7 +20,7 @@ author_profile: true
    
    <span style="color: #006692;">Conference Presentations (\*: presented by coauthors):</span> AMES 2024 (Ho Chi Minh)\*, AMES 2024 (Hangzhou), AASLE 2023, AMES 2023 (Beijing)\*, AMES 2023 (Singapore), CCER Summer Institute\*, Exeter Diversity and Human Capital Workshop\*, GLO Global Conference 2022, MWIEDC 2023\*, RES 2023\*, SEHO 2023\*.
 
-  <!--- [Draft (New draft coming soon)](#Buttons){: .btn--research} [Slides (Coming soon)](#Buttons){: .btn--research} --->
+  <!--- [Draft <span style="color: #a60000;"> New Draft!</span>](#Buttons){: .btn--research} [Slides (Coming soon)](#Buttons){: .btn--research} --->
   <a href="https://ink.library.smu.edu.sg/soe_research/2750/" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-pdf"></i> Draft (New draft coming soon)</a>
   <a href="" target="_blank" rel="noopener noreferrer">
