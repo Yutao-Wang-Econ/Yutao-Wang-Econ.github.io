@@ -26,7 +26,7 @@ author_profile: true
   <a href="" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
   
-- **Social Institutions and Low Birth Rates: Quantitative Evidence from South Korea and the United States**  
+- **Social Institutions and Low Birth Rates**  
   (with [Christine Ho](https://sites.google.com/site/christineho5))  
    <details>
    <summary>Abstract</summary>
@@ -44,10 +44,11 @@ author_profile: true
 
 
 
-------
+<!-- ------
 ### Work in Progress
 - **One-Child Policy, Education Attainment, and Parental Monetary Investments**  
- 
+--> 
+
 ------
 ### Research Experience
 - Research Assistant to Prof. Christine Ho, Singapore Management University, 2022-2024
