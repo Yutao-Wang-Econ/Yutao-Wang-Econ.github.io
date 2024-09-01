@@ -25,7 +25,6 @@ author_profile: true
   <i class="fas fa-file-pdf"></i> Draft </a>  
   <a href="" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
-  <!--  <i class="fas fa-file-pdf"></i> Draft <span style="color: #a60000;"> (New!)</span></a>  -->
   
 - **Social Institutions and Low Birth Rates**  
   (with [Christine Ho](https://sites.google.com/site/christineho5))  
