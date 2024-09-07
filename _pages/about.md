@@ -19,9 +19,9 @@ redirect_from:
  
 
 ### Bio
-I am currently a Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/), [Singapore Management University (SMU)](https://www.smu.edu.sg/). My research interests lie in labor and development economics with three core areas of research: intra-household decisions, gender inequality, and child development. My work involves reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in child quantity and quality, fertility behaviors, and female labor supply. 
+I am currently a Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/), [Singapore Management University (SMU)](https://www.smu.edu.sg/). My research interests lie in labor and development economics with three core areas of research: intra-household decisions, gender inequality, and child development. My work involves both reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in child quantity and quality, fertility behaviors, and female labor supply. 
 
-**I will be on the 2024-2025 Economics Job Market.**
+**I will be on the 2024-2025 Economics Job Market and will be available for interviews.**
 
 Here is my [CV](../files/CV_Yutao_Wang.pdf). You can reach me at [ytwang.2020@phdecons.smu.edu.sg](mailto:ytwang.2020@phdecons.smu.edu.sg).
 
