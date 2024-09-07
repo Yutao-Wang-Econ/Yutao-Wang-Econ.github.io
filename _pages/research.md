@@ -22,7 +22,7 @@ author_profile: true
 
   <!--- [Draft <span style="color: #a60000;"> New Draft!</span>](#Buttons){: .btn--research} [Slides (Coming soon)](#Buttons){: .btn--research} --->
   <a href="https://Yutao-Wang-Econ.github.io/files/Ho, Wang, and Zuo (2024) Family Size and Child Migration.pdf" target="_blank" rel="noopener noreferrer">
-  <i class="fas fa-file-pdf"></i> Draft </a>
+  <i class="fas fa-file-pdf"></i> Draft</a>
   <a href="" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
   <!---  <i class="fas fa-file-pdf"></i> Draft <span style="color: #a60000;"> (New!)</span></a>  --->
