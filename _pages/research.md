@@ -14,7 +14,7 @@ author_profile: true
   **_Submitted_** 
    <details>
    <summary>Abstract</summary>
-     Daughters may be less likely to migrate with parents because they tend to have more siblings in societies with strong son preference. Exploiting exogenous variation in twinning, we find that a one unit increase in family size decreases the probability that a daughter migrates by 12.5 percentage points—with stronger negative associations when migration restrictions are more stringent—but has negligible effects on sons in China. The results are indicative of family size trade-offs in a novel aspect of parental investment and highlight the need for gender-neutral relaxation of migration constraints to mitigate the gendered family size trade-offs.
+     We show that, conditional on family size, rural boys and girls are equally likely to migrate with parents in China. Nevertheless, daughters' migration may still be compromised because they tend to have more siblings in societies with strong son preference, and larger families are more likely to leave all children behind. We find that a one unit increase in sibship size decreases the probability that a daughter migrates by 12.5 percentage points—with stronger effects when migration restrictions are more stringent—but has negligible effects on sons. The results suggest that gender-neutral migration constraints may generate gendered family size trade-offs.
    </details>
    <!-- Medium skip -->
    
