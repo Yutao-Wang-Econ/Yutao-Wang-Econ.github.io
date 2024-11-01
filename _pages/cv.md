@@ -67,7 +67,7 @@ redirect_from:
   * National Scholarship for Graduate Students, Ministry of Education, China, 2019
   * First-Tier Academic Scholarship (×3), Southwestern University of Finance and Economics, 2018–2019
 
-### Service
+### Professional Activities and Services
 * Grant Collaboration
   * Research Collaborator, MOE Tier 1(A) Grant, Child Migration and Human Capital Investment (SGD 38,395), Funded by Ministry of Education of Singapore, 2023–2025
 
