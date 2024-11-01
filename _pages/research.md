@@ -57,6 +57,5 @@ author_profile: true
 
 ------
 ### Publication (in Chinese)
-- [**Child Migration and the Labor Supply of Migrant Mothers**](https://d.wanfangdata.com.cn/periodical/tongjyj202202005)  
-(with Kaizhi Yu and Hong Zou)  
+- [**Child Migration and the Labor Supply of Migrant Mothers**](https://d.wanfangdata.com.cn/periodical/tongjyj202202005)  (with Kaizhi Yu and Hong Zou)  
 _Statistical Research_ (in Chinese, 统计研究), 2022, 39(2), 64–79
