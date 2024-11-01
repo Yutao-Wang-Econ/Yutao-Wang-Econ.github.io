@@ -29,7 +29,7 @@ Here is my [CV](../files/CV_Yutao_Wang.pdf). You can reach me at [ytwang.2020@ph
 <!--- ------ --->
 ### Research Interests
   <!-- <span style="color: green;">Economics of the Family, Labor Economics</span> -->
-  Labor Economics, Development Economics, Applied Microeconomics, Economics of the Family
+  Labor Economics, Development Economics, Applied Microeconomics, Economics of the Family, Economics of Gender
 
 <!---
 ### Education
