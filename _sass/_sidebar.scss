@@ -94,7 +94,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;  /* comment this line if you do not want a border on photo */
+      // border: 1px solid $border-color;  /* comment this line if you do not want a border on photo */
     }
   }
 }
