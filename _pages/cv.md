@@ -18,13 +18,14 @@ redirect_from:
 ### Teaching and Research Interests
   * Labor Economics
   * Development Economics
+  * Applied Microeconomics
   * Economics of the Family
-  * Structural Applied Microeconomics
+  * Economics of Gender
 
 ### Education
-* Ph.D. in Economics, Singapore Management University, 2020- 2025 (expected)
-* M.S. in Quantitative Economics, Southwestern University of Finance and Economics, 2017-2020
-* B.Econ. in Finance, Northwest A&F University, 2013-2017
+* Ph.D. in Economics, Singapore Management University, July 2025 (expected)
+* M.S. in Quantitative Economics, Southwestern University of Finance and Economics, June 2020
+* B.Econ. in Finance, Northwest A&F University, June 2017
 
 ### Publications, Working Papers, and Selected Work in Progress
 * <a href="https://yutao-wang-econ.github.io/research/" target="_blank" rel="noopener noreferrer">
@@ -40,6 +41,8 @@ redirect_from:
 
 ### Conference and Seminar Presentations (Including Scheduled)
 * Econometric Society Australasian Meeting, Monash University, Melbourne, 2024
+* RUC-GLO Annual Conference, Renmin University of China, Beijing, 2024
+* Seminar Series, Singapore Management University, Singapore, 2024
 * AMES China, Zhejiang University, Hangzhou, 2024
 * SEHO Annual Meeting, Singapore Management University, Singpaore, 2024
 * AASLE Conference, National Taiwan University, Taipei, 2023
@@ -51,20 +54,26 @@ redirect_from:
 
 ### Honors and Scholarships
 * Honors and Awards
-  * SMU Presidential Doctoral Fellowship, 2024-2025
-  * SMU Presidential Doctoral Fellowship, 2023-2024
+  * SMU Presidential Doctoral Fellowship (×2), Singapore Management University, 2023–2025
   * “Guanghua” Distinguished Master’s Thesis Award, Southwestern University of Finance and Economics, 2020
   * Outstanding Master's Student Award, Southwestern University of Finance and Economics, 2019
   * Distinguished Undergraduate Dissertation Award, Northwest A&F University, 2017
  
 * Scholarships
-  * Doctoral Full Scholarship, Ministry of Education, Singapore, 2020-2024
+  * Doctoral Full Scholarship, Ministry of Education, Singapore, 2020–2024
   * National Scholarship for Graduate Students, Ministry of Education, China, 2019
-  * First-Tier Academic Scholarship, Southwestern University of Finance and Economics, 2018/2019
+  * First-Tier Academic Scholarship (×3), Southwestern University of Finance and Economics, 2018–2019
 
 ### Service
-* Member of Local Organizing Committee, Annual Meeting of the Society of Economics of the Household (SEHO), Singapore, 2024
+* Grant Collaboration
+  * Research Collaborator, MOE Tier 1(A) Grant, Child Migration and Human Capital Investment (SGD 38,395), Funded by Ministry of Education of Singapore, 2023–2025
+
+* Conference Organization
+  * Local Organizing Committee, Annual Meeting of the Society of Economics of the Household (SEHO), Singapore, 2024
+
+* Summer School
+  * Accepted Participant, Econometric Society Summer School in Dynamic Structural Econometrics (DSE) – “Policy Evaluation and Heterogeneity Measurement”, 2024 
 
 ### Skills
-* Matlab, STATA, R, LaTeX, Fortran
+* Matlab, STATA, Fortran, LaTeX, R
 * English (Fluent), Mandarin Chinese (Native)
