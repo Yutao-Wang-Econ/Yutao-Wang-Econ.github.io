@@ -11,7 +11,7 @@ author_profile: true
 - [**Social Institutions and Low Birth Rates**](https://yutao-wang-econ.github.io/files/JMP_YutaoWANG.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5)), **_Job Market Paper_**  
    <details>
    <summary>Abstract</summary>
-      Abstract is coming soon.
+      We document three cross-sectional stylized facts on labor supply and family formation. First, female labor force participation (FLFP) and total fertility rates (TFRs) are much lower in Eastern societies compared to Western economies. Second, labor hours and the gender pay gap are much higher in the East than in the West. Third, parents invest more on schooling in Eastern societies compared to Western economies. To account for these features, we develop and estimate a rich heterogeneous-agent model with endogenous marriage, fertility, labor supply, and time and money investment in children. Estimates using data from South Korea and the United States highlight the importance of gender norms and long work hours practices in driving down FLFP while child quality mores drive down fertility in South Korea. Our results suggest that a multi-pronged policy approach or reductions in the gender pay gap may help boost both FLFP and fertility in East Asia.
    </details>
    <!-- Medium skip -->
   <!---
@@ -59,7 +59,7 @@ author_profile: true
 ------
 ### Publication (in Chinese)
 - [**Child Migration and the Labor Supply of Migrant Mothers**](https://d.wanfangdata.com.cn/periodical/tongjyj202202005)  (with Kaizhi Yu and Hong Zou), _Statistical Research_ (in Chinese, 统计研究), 2022, 39(2), 64–79.
-<details>
+   <details>
    <summary>Abstract</summary>
      We examine the causal effects of preschool child migration on female migrants' labor force participation (FLFP) and their working hours. Utilizing data from the China Migrant Dynamic Survey and leveraging community-level variations in average child migration rates, we find that child migration significantly reduces both FLFP and hours worked among female migrants. These results remain robust across various checks, including relaxing the exclusion restriction with bound estimators and using alternative instruments. Further heterogeneous analyses reveal that the negative impact of child migration diminishes when access to outsourced formal childcare is available. In contrast, grandparent-provided childcare has a negligible effect on alleviating the consequences of child migration. Moreover, we provide suggestive evidence that the caregiving burden on grandparents adversely affects their health, thereby offsetting potential positive effects on female labor supply. Our findings suggest that enhancing access to formal childcare, such as daycare centers, may effectively alleviate these negative effects.
    </details>
