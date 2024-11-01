@@ -22,10 +22,9 @@ redirect_from:
 I am currently a final-year Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/), [Singapore Management University (SMU)](https://www.smu.edu.sg/). My research interests lie in labor and development economics with four core areas: intra-household
 allocation, investment in children, migration, and gender. I leverage both structural estimation methods and reduced-form techniques to explore the mechanisms underlying trade-offs between the quantity and quality of children, as well as trade-offs between female labor supply and family formation. 
 
-**<span style="color: #006692;">I will be on the 2024-2025 Economics Job Market and will be available for interviews.**
+<span style="color: #006692;">**I am on the 2024-2025 Economics Job Market and will be available for interviews.**
 
-Here is my [CV](../files/CV_Yutao_Wang.pdf).<br /> 
-Here is my [Job Market Paper](../files/JMP_YutaoWANG.pdf).<br />
+Here are my [CV](../files/CV_Yutao_Wang.pdf) \& [Job Market Paper](../files/JMP_YutaoWANG.pdf).<br />
 You can reach me at [ytwang.2020@phdecons.smu.edu.sg](mailto:ytwang.2020@phdecons.smu.edu.sg).
 
 <!--- ------ --->
