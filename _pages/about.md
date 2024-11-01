@@ -24,7 +24,8 @@ allocation, investment in children, migration, and gender. I leverage both struc
 
 <span style="color: #006692;">**I am on the 2024-2025 Economics Job Market and will be available for interviews.**
 
-Here are my [CV](../files/CV_Yutao_Wang.pdf) & [job market paper](../files/JMP_YutaoWANG.pdf).<br />
+Here are my [job market paper](../files/JMP_YutaoWANG.pdf) & [CV](../files/CV_Yutao_Wang.pdf).
+
 You can reach me at [ytwang.2020@phdecons.smu.edu.sg](mailto:ytwang.2020@phdecons.smu.edu.sg).
 
 <!--- ------ --->
