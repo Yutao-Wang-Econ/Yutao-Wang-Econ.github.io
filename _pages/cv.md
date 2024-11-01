@@ -16,9 +16,12 @@ redirect_from:
         
 ------
 ### Teaching and Research Interests
+* Primary
   * Labor Economics
   * Development Economics
   * Applied Microeconomics
+    
+* Secondary
   * Economics of the Family
   * Economics of Gender
 
@@ -75,5 +78,5 @@ redirect_from:
   * Accepted Participant, Econometric Society Summer School in Dynamic Structural Econometrics (DSE) – “Policy Evaluation and Heterogeneity Measurement”, 2024 
 
 ### Skills
-* Matlab, STATA, Fortran, LaTeX, R
+* Matlab, STATA, Fortran, R, LaTeX
 * English (Fluent), Mandarin Chinese (Native)
