@@ -90,7 +90,7 @@
     max-width: 176px; /*175px;*/
     // border-radius: 0; /* for retangular photo */
     /*object-fit: cover;*/ /* comment this line if want a non-square photo */
-    /* border-radius: 50%;*/ /* comment this line if want a circle-shape photo */
+    border-radius: 50%; /* comment this line if want a circle-shape photo */
 
     @include breakpoint($large) {
       padding: 5px;
