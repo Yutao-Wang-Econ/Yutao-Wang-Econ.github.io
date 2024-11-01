@@ -19,7 +19,8 @@ redirect_from:
  
 
 ### Bio
-I am currently a Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/), [Singapore Management University (SMU)](https://www.smu.edu.sg/). My research interests lie in labor and development economics with three core areas of research: intra-household decisions, gender inequality, and child development. My work involves both reduced-form and structural modelling approaches. Recent projects aim to explore the implications of parental investments in child quantity and quality, fertility behaviors, and female labor supply. 
+I am currently a Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/), [Singapore Management University (SMU)](https://www.smu.edu.sg/). My research interests lie in labor and development economics with four core areas: intra-household
+allocation, investment in children, migration, and gender. I leverage both structural estimation methods and reduced-form techniques to explore the mechanisms underlying trade-offs between the quantity and quality of children, as well as trade-offs between female labor supply and family formation. 
 
 **I will be on the 2024-2025 Economics Job Market and will be available for interviews.**
 
