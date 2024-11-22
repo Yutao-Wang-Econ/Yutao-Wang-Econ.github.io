@@ -21,5 +21,5 @@ author_profile: true
   -  _Instructor: Prof. Christine Ho_
 
 ### Teaching Assistant, Southwestern University of Finance and Economics
-- Econometrics (UG), Fall 2019
+- Econometrics (UG), Fall 2018
   - _Instructor: Prof. Weidong Zhang_  
