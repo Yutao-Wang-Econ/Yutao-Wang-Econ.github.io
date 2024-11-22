@@ -26,9 +26,9 @@ redirect_from:
   * Economics of Gender
 
 ### Education
-* Ph.D. in Economics, Singapore Management University, July 2025 (expected)
-* M.S. in Quantitative Economics, Southwestern University of Finance and Economics, June 2020
-* B.Econ. in Finance, Northwest A&F University, June 2017
+* Ph.D. in Economics, Singapore Management University, 2025 (expected)
+* M.S. in Quantitative Economics, Southwestern University of Finance and Economics, 2020
+* B.Econ. in Finance, Northwest A&F University, 2017
 
 ### Publications, Working Papers, and Selected Work in Progress
 * <a href="https://yutao-wang-econ.github.io/research/" target="_blank" rel="noopener noreferrer">
