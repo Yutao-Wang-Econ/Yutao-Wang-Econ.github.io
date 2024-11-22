@@ -24,7 +24,7 @@ author_profile: true
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
    --->
  
-- [**Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?**](https://yutao-wang-econ.github.io/files/Ho,%20Wang,%20and%20Zuo%20(2024)%20Family%20Size%20and%20Child%20Migration.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home)), Under Review in The **_Journal of Human Resources_**
+- [**Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?**](https://yutao-wang-econ.github.io/files/Ho,%20Wang,%20and%20Zuo%20(2024)%20Family%20Size%20and%20Child%20Migration.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home)), **_Submitted_**
   <!---
     **<span style="color: #a60000;"> (New Draft!)</span>**
   --->
