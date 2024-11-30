@@ -17,7 +17,7 @@ author_profile: true
   -  _Instructor: Prof. Christine Ho_
 - ECON622 Macroeconomics II (PhD), Spring 2022 & 2023
   - _Instructor: Prof. Jianhuan Xu_ 
-- ECON243 Demographic and Family Economics (UG), Prof. Christine Ho, Fall 2022 & 2023
+- ECON243 Demographic and Family Economics (UG), Fall 2022 & 2023
   -  _Instructor: Prof. Christine Ho_
 
 ### Teaching Assistant, Southwestern University of Finance and Economics
