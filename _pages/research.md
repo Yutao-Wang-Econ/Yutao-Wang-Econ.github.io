@@ -10,7 +10,7 @@ author_profile: true
 ### Working Papers
 - [**Social Institutions and Low Birth Rates**](https://yutao-wang-econ.github.io/files/JMP_YutaoWANG.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5)), **_Job Market Paper_**
    <br /><span style="color: black;"><sub>_Presentations: SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, SMU Applied Micro Workshop, Australian National University\*, University of Sydney\*._</sub></span> <br />
-  <p style="margin-top: 0.06em;"></p>
+  <p style="margin-top: 0.01em;"></p>
   <details>
    <summary>Abstract</summary>
       We document three cross-sectional stylized facts on labor supply and family formation. First, female labor force participation (FLFP) and total fertility rates (TFRs) are much lower in Eastern societies compared to Western economies. Second, labor hours and the gender pay gap are much higher in the East than in the West. Third, parents invest more on schooling in Eastern societies compared to Western economies. To account for these features, we develop and estimate a rich heterogeneous-agent model with endogenous marriage, fertility, labor supply, and time and money investment in children. Estimates using data from South Korea and the United States highlight the importance of gender norms and long work hours practices in driving down FLFP while child quality mores drive down fertility in South Korea. Our results suggest that a multi-pronged policy approach or reductions in the gender pay gap may help boost both FLFP and fertility in East Asia. <!--- <br /><span style="color: black;"><sub>Presentations: SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, Australian National University*, University of Sydney*.</sub></span><br /> --->
@@ -31,7 +31,7 @@ author_profile: true
   <!---
     **<span style="color: #a60000;"> (New Draft!)</span>**
   --->
-    <p style="margin-top: 0.06em;"></p>
+    <p style="margin-top: 0.01em;"></p>
    <details>   
    <summary>Abstract</summary>
      We show that, conditional on family size, rural boys and girls are equally likely to migrate with parents in China. Nevertheless, daughters' migration may still be compromised because they tend to have more siblings in societies with strong son preference, and larger families are more likely to leave all children behind. We find that a one unit increase in sibship size decreases the probability that a daughter migrates by 12.5 percentage points—with stronger effects when migration restrictions are more stringent—but has negligible effects on sons. The results suggest that gender-neutral migration constraints may generate gendered family size trade-offs. <!--- <br /><span style="color: #006692;"><sub>Presentations: AMES 2024 (Ho Chi Minh)*, AMES 2024 (Hangzhou), AASLE 2023, AMES 2023 (Beijing)*, AMES 2023 (Singapore), CCER Summer Institute*, MWIEDC 2023*, RES 2023*, SEHO 2023*, Exeter Diversity and Human Capital Workshop*, GLO Global Conference 2022, Fordham*, Fudan, Hamilton*, Jinan IESR*, SMU, Southampton*, and University of Macau*.</sub></span> <br /> --->
