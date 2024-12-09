@@ -9,7 +9,7 @@ author_profile: true
 ------
 ### Working Papers
 - [**Social Institutions and Low Birth Rates**](https://yutao-wang-econ.github.io/files/JMP_YutaoWANG.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5)), **_Job Market Paper_**
-   <br /><span style="color: black;"><sub>_Presentations: SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, SMU Applied Micro Workshop 2024, SMU Seminar Series 2024, Australian National University\*, University of Sydney\*._</sub></span> <br />
+   <br /><span style="color: black;"><sub>_Presentations: SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, SMU Applied Micro Workshop 2024, SMU Seminar Series 2024, Australian National University\*, and University of Sydney\*._</sub></span> <br />
   <p style="margin-top: -0.45em;"></p>
   <details>
    <summary>Abstract</summary>
