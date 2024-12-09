@@ -31,6 +31,7 @@ author_profile: true
   <!---
     **<span style="color: #a60000;"> (New Draft!)</span>**
   --->
+    <p style="margin-top: 0.5em;"></p>
    <details>   
    <summary>Abstract</summary>
      We show that, conditional on family size, rural boys and girls are equally likely to migrate with parents in China. Nevertheless, daughters' migration may still be compromised because they tend to have more siblings in societies with strong son preference, and larger families are more likely to leave all children behind. We find that a one unit increase in sibship size decreases the probability that a daughter migrates by 12.5 percentage points—with stronger effects when migration restrictions are more stringent—but has negligible effects on sons. The results suggest that gender-neutral migration constraints may generate gendered family size trade-offs. <!--- <br /><span style="color: #006692;"><sub>Presentations: AMES 2024 (Ho Chi Minh)*, AMES 2024 (Hangzhou), AASLE 2023, AMES 2023 (Beijing)*, AMES 2023 (Singapore), CCER Summer Institute*, MWIEDC 2023*, RES 2023*, SEHO 2023*, Exeter Diversity and Human Capital Workshop*, GLO Global Conference 2022, Fordham*, Fudan, Hamilton*, Jinan IESR*, SMU, Southampton*, and University of Macau*.</sub></span> <br /> --->
