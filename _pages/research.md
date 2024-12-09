@@ -10,7 +10,7 @@ author_profile: true
 ### Working Papers
 - [**Social Institutions and Low Birth Rates**](https://yutao-wang-econ.github.io/files/JMP_YutaoWANG.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5)), **_Job Market Paper_**
    <br /><span style="color: black;"><sub>_Presentations: SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, SMU Applied Micro Workshop, Australian National University\*, University of Sydney\*._</sub></span> <br />
-  <p style="margin-top: 0.01em;"></p>
+  <p style="margin-top: -0.3em;"></p>
   <details>
    <summary>Abstract</summary>
       We document three cross-sectional stylized facts on labor supply and family formation. First, female labor force participation (FLFP) and total fertility rates (TFRs) are much lower in Eastern societies compared to Western economies. Second, labor hours and the gender pay gap are much higher in the East than in the West. Third, parents invest more on schooling in Eastern societies compared to Western economies. To account for these features, we develop and estimate a rich heterogeneous-agent model with endogenous marriage, fertility, labor supply, and time and money investment in children. Estimates using data from South Korea and the United States highlight the importance of gender norms and long work hours practices in driving down FLFP while child quality mores drive down fertility in South Korea. Our results suggest that a multi-pronged policy approach or reductions in the gender pay gap may help boost both FLFP and fertility in East Asia. <!--- <br /><span style="color: black;"><sub>Presentations: SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, Australian National University*, University of Sydney*.</sub></span><br /> --->
