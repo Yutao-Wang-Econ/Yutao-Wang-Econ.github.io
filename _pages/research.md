@@ -34,7 +34,7 @@ author_profile: true
     <p style="margin-top: -0.45em;"></p>
    <details>   
    <summary>Abstract</summary>
-     We show that, conditional on family size, rural boys and girls are equally likely to migrate with parents in China. Nevertheless, daughters' migration may still be compromised because they tend to have more siblings in societies with strong son preference, and larger families are more likely to leave all children behind. We find that a one unit increase in sibship size decreases the probability that a daughter migrates by 12.5 percentage points—with stronger effects when migration restrictions are more stringent—but has negligible effects on sons. The results suggest that gender-neutral migration constraints may generate gendered family size trade-offs. <!--- <br /><span style="color: #006692;"><sub>Presentations: AMES 2024 (Ho Chi Minh)*, AMES 2024 (Hangzhou), AASLE 2023, AMES 2023 (Beijing)*, AMES 2023 (Singapore), CCER Summer Institute*, MWIEDC 2023*, RES 2023*, SEHO 2023*, Exeter Diversity and Human Capital Workshop*, GLO Global Conference 2022, Fordham*, Fudan, Hamilton*, Jinan IESR*, SMU, Southampton*, and University of Macau*.</sub></span> <br /> --->
+     We investigate how family size shapes child migration in China, where most rural families have at least two children, and nearly 50% of children have migrant parents. We propose a model showing that, conditional on family size, boys and girls are equally likely to migrate with parents to cities. However, in societies with strong son preference, daughters' migration may still be constrained as they tend to have more siblings, and larger families are more likely to leave all children behind. Using a nationwide sample of adult migrant households with children born after China's ban on ultrasound-based prenatal sex screening, we test these predictions with a twin-based instrumental variable strategy. We find that an additional sibling reduces the likelihood of a daughter migrating by 12.5 percentage points, while sons remain unaffected. These effects are more pronounced under stricter migration restrictions. The results are robust to extensive sensitivity checks, including bounding family size effects by relaxing the exclusion restriction. Our findings reveal that ostensibly gender-neutral migration constraints can create gendered trade-offs in rural-to-urban child migration, driven by family size and son-biased fertility preferences. This study provides novel evidence on a unique measure of parental investment in children, shedding light on how gender inequality may stem from indirect gender discrimination in contexts with strict migration policies. <!--- <br /><span style="color: #006692;"><sub>Presentations: AMES 2024 (Ho Chi Minh)*, AMES 2024 (Hangzhou), AASLE 2023, AMES 2023 (Beijing)*, AMES 2023 (Singapore), CCER Summer Institute*, MWIEDC 2023*, RES 2023*, SEHO 2023*, Exeter Diversity and Human Capital Workshop*, GLO Global Conference 2022, Fordham*, Fudan, Hamilton*, Jinan IESR*, SMU, Southampton*, and University of Macau*.</sub></span> <br /> --->
    </details>
    <!-- Medium skip -->
 
@@ -63,7 +63,8 @@ author_profile: true
 ------
 ### Publication (in Chinese)
 - **Child Migration and the Labor Supply of Migrant Mothers** (with Kaizhi Yu and Hong Zou), _Statistical Research_, 2022, 39(2), 64–79.
-<!---[**Child Migration and the Labor Supply of Migrant Mothers**]<!--(https://d.wanfangdata.com.cn/periodical/tongjyj202202005) (with Kaizhi Yu and Hong Zou), _Statistical Research_ (in Chinese, 统计研究), 2022, 39(2), 64–79.
+
+<!-- [**Child Migration and the Labor Supply of Migrant Mothers**] (https://d.wanfangdata.com.cn/periodical/tongjyj202202005) (with Kaizhi Yu and Hong Zou), _Statistical Research_ (in Chinese, 统计研究), 2022, 39(2), 64–79.
 
   <br /><span style="color: black;"><sub>_Research brief is selected for inclusion in the government information of the National Bureau of Statistics of China._</sub></span> <br /> 
     <p style="margin-top: -0.45em;"></p>  
@@ -71,7 +72,7 @@ author_profile: true
    <summary>Abstract</summary>
      We examine the causal effects of preschool child migration on female migrants' labor force participation (FLFP) and their working hours. Utilizing data from the China Migrant Dynamic Survey and leveraging community-level variations in average child migration rates, we find that child migration significantly reduces both FLFP and hours worked among female migrants. These results remain robust across various checks, including relaxing the exclusion restriction with bound estimators and using alternative instruments. Further heterogeneous analyses reveal that the negative impact of child migration diminishes when access to outsourced formal childcare is available. In contrast, grandparent-provided childcare has a negligible effect on alleviating the consequences of child migration. Moreover, we provide suggestive evidence that the caregiving burden on grandparents adversely affects their health, thereby offsetting potential positive effects on female labor supply. Our findings suggest that enhancing access to formal childcare, such as daycare centers, may effectively alleviate these negative effects.
    </details>
---->
+-->
 ------
 ### Research Experience
 - Research Assistant to Prof. Christine Ho, Singapore Management University, 2022–2025
