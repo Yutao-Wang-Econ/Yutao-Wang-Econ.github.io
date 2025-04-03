@@ -63,7 +63,7 @@ author_profile: true
 ------
 ### Publication (in Chinese)
 - **Child Migration and the Labor Supply of Migrant Mothers** (with Kaizhi Yu and Hong Zou), _Statistical Research_, 2022, 39(2), 64–79.
-<!--[**Child Migration and the Labor Supply of Migrant Mothers**]<!--(https://d.wanfangdata.com.cn/periodical/tongjyj202202005) (with Kaizhi Yu and Hong Zou), _Statistical Research_ (in Chinese, 统计研究), 2022, 39(2), 64–79.
+<!---[**Child Migration and the Labor Supply of Migrant Mothers**]<!--(https://d.wanfangdata.com.cn/periodical/tongjyj202202005) (with Kaizhi Yu and Hong Zou), _Statistical Research_ (in Chinese, 统计研究), 2022, 39(2), 64–79.
 
   <br /><span style="color: black;"><sub>_Research brief is selected for inclusion in the government information of the National Bureau of Statistics of China._</sub></span> <br /> 
     <p style="margin-top: -0.45em;"></p>  
@@ -71,7 +71,7 @@ author_profile: true
    <summary>Abstract</summary>
      We examine the causal effects of preschool child migration on female migrants' labor force participation (FLFP) and their working hours. Utilizing data from the China Migrant Dynamic Survey and leveraging community-level variations in average child migration rates, we find that child migration significantly reduces both FLFP and hours worked among female migrants. These results remain robust across various checks, including relaxing the exclusion restriction with bound estimators and using alternative instruments. Further heterogeneous analyses reveal that the negative impact of child migration diminishes when access to outsourced formal childcare is available. In contrast, grandparent-provided childcare has a negligible effect on alleviating the consequences of child migration. Moreover, we provide suggestive evidence that the caregiving burden on grandparents adversely affects their health, thereby offsetting potential positive effects on female labor supply. Our findings suggest that enhancing access to formal childcare, such as daycare centers, may effectively alleviate these negative effects.
    </details>
--->
+--->
 ------
 ### Research Experience
 - Research Assistant to Prof. Christine Ho, Singapore Management University, 2022–2025
