@@ -8,8 +8,8 @@ author_profile: true
 
 ------
 ### Working Papers
-- [**Social Institutions and Low Birth Rates**](https://yutao-wang-econ.github.io/files/JMP_YutaoWANG.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5)), **_Job Market Paper_**
-   <br /><span style="color: black;"><sub>_Presentations: SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, SMU Applied Micro Workshop 2024, SMU Seminar Series 2024, Australian National University\*, and University of Sydney\*._</sub></span> <br />
+- [**Social Institutions and Low Birth Rates**](https://yutao-wang-econ.github.io/files/JMP_YutaoWANG.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5))<!--,  **_Job Market Paper_** -->
+   <br /><span style="color: black;"><sub>_Presentations: ESWC 2025, Hong Kong Labor Symposium, NBER—Fertility and Declining Population Growth in High-Income Countries 2025\*, Barcelona School of Economics Summer Forum—Income Dynamics and the Family 2025\*, SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, SMU Applied Micro Workshop 2024, SMU Seminar Series 2024, Australian National University\*, University of Sydney\*, Institute of Fiscal Studies\*, KU Leuven\*, IE University\*, Bocconi University\*, Economic Demography\*._</sub></span> <br />
   <p style="margin-top: -0.45em;"></p>
   <details>
    <summary>Abstract</summary>
@@ -26,7 +26,7 @@ author_profile: true
   <i class="fas fa-file-powerpoint"></i> Slides (Coming soon)</a>
    --->
  
-- [**Family Size and Child Migration: Do Daughters Face Greater Trade-Offs than Sons?**](https://yutao-wang-econ.github.io/files/Ho,%20Wang,%20and%20Zuo%20(2024)%20Family%20Size%20and%20Child%20Migration.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))
+- [**When Family Size Shapes Child Migration: Gendered Trade-Offs in Rural-to-Urban Migration in China**](https://yutao-wang-econ.github.io/files/Ho,%20Wang,%20and%20Zuo%20(2024)%20Family%20Size%20and%20Child%20Migration.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))
    <br /><span style="color: black;"><sub>_Presentations: AMES 2024 (Hangzhou), AMES 2024 (Ho Chi Minh)\*, AASLE 2023,  AMES 2023 (Singapore), SMU Applied Micro Workshop 2023, AMES 2023 (Beijing)\*, CCER Summer Institute\*, MWIEDC 2023\*, RES 2023*, SEHO 2023\*, Exeter Diversity and Human Capital Workshop\*, GLO Global Conference 2022, Fudan Forum of Public Economics and Policy, Hamilton\*, SMU Brownbag Workshop Series 2022, Fordham\*, Jinan IESR\*, Southampton\*, and University of Macau\*._</sub></span> <br /> 
   <!---
     **<span style="color: #a60000;"> (New Draft!)</span>**
@@ -56,20 +56,22 @@ author_profile: true
 
 ------
 ### Selected Work in Progress
-- **_Hukou_ Reform and Labor Market Sorting: A Quantitative Analysis** (with [Tong Ni](https://tong-ni.github.io/))
+- **Relaxation of Internal Migration Restrictions and Labor Market Sorting** (with [Tong Ni](https://tong-ni.github.io/))
 - **Pension Enrolment and Child Migration in China**
   (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))  
 
 ------
 ### Publication (in Chinese)
-- [**Child Migration and the Labor Supply of Migrant Mothers**](https://d.wanfangdata.com.cn/periodical/tongjyj202202005)  (with Kaizhi Yu and Hong Zou), _Statistical Research_ (in Chinese, 统计研究), 2022, 39(2), 64–79.
+- **Child Migration and the Labor Supply of Migrant Mothers** (with Kaizhi Yu and Hong Zou), _Statistical Research_, 2022, 39(2), 64–79.
+<!--[**Child Migration and the Labor Supply of Migrant Mothers**]<!--(https://d.wanfangdata.com.cn/periodical/tongjyj202202005) (with Kaizhi Yu and Hong Zou), _Statistical Research_ (in Chinese, 统计研究), 2022, 39(2), 64–79.
+
   <br /><span style="color: black;"><sub>_Research brief is selected for inclusion in the government information of the National Bureau of Statistics of China._</sub></span> <br /> 
     <p style="margin-top: -0.45em;"></p>  
    <details>
    <summary>Abstract</summary>
      We examine the causal effects of preschool child migration on female migrants' labor force participation (FLFP) and their working hours. Utilizing data from the China Migrant Dynamic Survey and leveraging community-level variations in average child migration rates, we find that child migration significantly reduces both FLFP and hours worked among female migrants. These results remain robust across various checks, including relaxing the exclusion restriction with bound estimators and using alternative instruments. Further heterogeneous analyses reveal that the negative impact of child migration diminishes when access to outsourced formal childcare is available. In contrast, grandparent-provided childcare has a negligible effect on alleviating the consequences of child migration. Moreover, we provide suggestive evidence that the caregiving burden on grandparents adversely affects their health, thereby offsetting potential positive effects on female labor supply. Our findings suggest that enhancing access to formal childcare, such as daycare centers, may effectively alleviate these negative effects.
    </details>
-
+-->
 ------
 ### Research Experience
 - Research Assistant to Prof. Christine Ho, Singapore Management University, 2022–2025
