@@ -22,7 +22,7 @@ redirect_from:
   * Applied Microeconomics
     
 * Secondary
-  * Economics of the Family
+  * Family Economics
   * Economics of Gender
 
 ### Education
@@ -41,7 +41,8 @@ redirect_from:
 ### Teaching Experience
 * <a href="https://yutao-wang-econ.github.io/teaching/" target="_blank" rel="noopener noreferrer">
   <i class="fa fa-link"></i>See Teaching</a>
-
+  
+<!--- 
 ### Conference and Seminar Presentations (Including Scheduled)
 * Econometric Society Australasian Meeting, Monash University, Melbourne, 2024
 * RUC-GLO Annual Conference, Renmin University of China, Beijing, 2024
@@ -76,7 +77,8 @@ redirect_from:
 
 * Summer School
   * Accepted Participant, Econometric Society Summer School in Dynamic Structural Econometrics (DSE) – “Policy Evaluation and Heterogeneity Measurement”, 2024 
-
+--->
 ### Skills
-* Matlab, STATA, Fortran, R, LaTeX
+* Matlab, Fortran, STATA, Julia, LaTeX
 * English (Fluent), Mandarin Chinese (Native)
+ 
