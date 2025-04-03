@@ -43,18 +43,6 @@ redirect_from:
   <i class="fa fa-link"></i>See Teaching</a>
   
 <!--- 
-### Conference and Seminar Presentations (Including Scheduled)
-* Econometric Society Australasian Meeting, Monash University, Melbourne, 2024
-* RUC-GLO Annual Conference, Renmin University of China, Beijing, 2024
-* Seminar Series, Singapore Management University, Singapore, 2024
-* AMES China, Zhejiang University, Hangzhou, 2024
-* SEHO Annual Meeting, Singapore Management University, Singpaore, 2024
-* AASLE Conference, National Taiwan University, Taipei, 2023
-* AMES Conference, Nanyang Technological University, Singapore, 2023
-* Applied Micro Workshop, Singapore Management University, Singapore, 2022
-* GLO Global Conference, Global Labor Organization, Vitural, 2022
-* Forum of Public Economics and Policy, Fudan University, Virutal, 2022
-* SMU Brownbag Workshop Series, Singapore Management University, Singapore, 2022
 
 ### Honors and Scholarships
 * Honors and Awards
