@@ -13,7 +13,8 @@ redirect_from:
 **_Please find a PDF version of my <a href="../files/CV_Yutao_Wang.pdf" target="_blank" rel="noopener noreferrer">
   <i class="fas fa-file-pdf"></i>CV</a>_** <!-- (Lastest update: March 26, 2024)** -->
 <!--- [CV](https://Yutao-Wang-Econ.github.io/files/CV_Yutao_Wang.pdf){: .btn--research}. --->
-        
+
+<!---
 ------
 ### Teaching and Research Interests
 * Primary
@@ -24,9 +25,10 @@ redirect_from:
 * Secondary
   * Family Economics
   * Economics of Gender
-
+-->
+------
 ### Education
-* Ph.D. in Economics, Singapore Management University, 2025 (expected)
+* Ph.D. in Economics, Singapore Management University, 2025
 * M.S. in Quantitative Economics, Southwestern University of Finance and Economics, 2020
 * B.Econ. in Finance, Northwest A&F University, 2017
 
