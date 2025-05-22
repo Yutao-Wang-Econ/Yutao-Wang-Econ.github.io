@@ -21,7 +21,7 @@ redirect_from:
 ### Bio
 I am currently a fifth-year Ph.D. candidate in the [School of Economics](https://economics.smu.edu.sg/), [Singapore Management University (SMU)](https://www.smu.edu.sg/). 
 
-My research interests lie in labor economics with a couple of core areas: intra-household
+My research interests lie in labor economics, with a focus on several core areas: intra-household
 allocation, insurance and risk sharing, investment in children, migration, and gender. I leverage both structural estimation methods and reduced-form techniques to explore the mechanisms underlying trade-offs between the quantity and quality of children, as well as trade-offs between female labor supply and family formation. 
 
 <!---
