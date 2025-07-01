@@ -12,7 +12,11 @@ author_profile: true
    <!--
   <br /><span style="color: black;"><sub>_Presentations: ESWC 2025, Hong Kong Labor Symposium, NBER—Fertility and Declining Population Growth in High-Income Countries 2025\*, Barcelona School of Economics Summer Forum—Income Dynamics and the Family 2025\*, SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, SMU Applied Micro Workshop 2024, SMU Seminar Series 2024, Australian National University\*, University of Sydney\*, Institute of Fiscal Studies\*, KU Leuven\*, IE University\*, Bocconi University\*, Economic Demography Workshop (EDW) 2025\*._</sub></span> <br />
   <p style="margin-top: -0.45em;"></p>
-  -->
+    -->
+  <!---
+    **<span style="color: #a60000;"> (New Draft!)</span>**
+  --->
+    <p style="margin-top: -0.45em;"></p>
   <details>
    <summary>Abstract</summary>
       We document three cross-sectional stylized facts on labor supply and family formation. First, female labor force participation (FLFP) and total fertility rates (TFRs) are much lower in Eastern societies compared to Western economies. Second, labor hours and the gender pay gap are much higher in the East than in the West. Third, parents invest more on schooling in Eastern societies compared to Western economies. To account for these features, we develop and estimate a rich heterogeneous-agent model with endogenous marriage, fertility, labor supply, and time and money investment in children. Estimates using data from South Korea and the United States highlight the importance of gender norms and long work hours practices in driving down FLFP while child quality mores drive down fertility in South Korea. Our results suggest that a multi-pronged policy approach or reductions in the gender pay gap may help boost both FLFP and fertility in East Asia. <!--- <br /><span style="color: black;"><sub>Presentations: SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, Australian National University*, University of Sydney*.</sub></span><br /> --->
