@@ -9,8 +9,10 @@ author_profile: true
 ------
 ### Working Papers
 - [**Social Institutions and Low Birth Rates**](https://yutao-wang-econ.github.io/files/JMP_YutaoWANG.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5))<!--,  **_Job Market Paper_** -->
-   <br /><span style="color: black;"><sub>_Presentations: ESWC 2025, Hong Kong Labor Symposium, NBER—Fertility and Declining Population Growth in High-Income Countries 2025\*, Barcelona School of Economics Summer Forum—Income Dynamics and the Family 2025\*, SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, SMU Applied Micro Workshop 2024, SMU Seminar Series 2024, Australian National University\*, University of Sydney\*, Institute of Fiscal Studies\*, KU Leuven\*, IE University\*, Bocconi University\*, Economic Demography Workshop (EDW) 2025\*._</sub></span> <br />
+   <!--
+  <br /><span style="color: black;"><sub>_Presentations: ESWC 2025, Hong Kong Labor Symposium, NBER—Fertility and Declining Population Growth in High-Income Countries 2025\*, Barcelona School of Economics Summer Forum—Income Dynamics and the Family 2025\*, SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, SMU Applied Micro Workshop 2024, SMU Seminar Series 2024, Australian National University\*, University of Sydney\*, Institute of Fiscal Studies\*, KU Leuven\*, IE University\*, Bocconi University\*, Economic Demography Workshop (EDW) 2025\*._</sub></span> <br />
   <p style="margin-top: -0.45em;"></p>
+  -->
   <details>
    <summary>Abstract</summary>
       We document three cross-sectional stylized facts on labor supply and family formation. First, female labor force participation (FLFP) and total fertility rates (TFRs) are much lower in Eastern societies compared to Western economies. Second, labor hours and the gender pay gap are much higher in the East than in the West. Third, parents invest more on schooling in Eastern societies compared to Western economies. To account for these features, we develop and estimate a rich heterogeneous-agent model with endogenous marriage, fertility, labor supply, and time and money investment in children. Estimates using data from South Korea and the United States highlight the importance of gender norms and long work hours practices in driving down FLFP while child quality mores drive down fertility in South Korea. Our results suggest that a multi-pronged policy approach or reductions in the gender pay gap may help boost both FLFP and fertility in East Asia. <!--- <br /><span style="color: black;"><sub>Presentations: SEHO 2024, RUC-GLO 2024 Conference, ESAM 2024, Australian National University*, University of Sydney*.</sub></span><br /> --->
@@ -27,7 +29,9 @@ author_profile: true
    --->
  
 - [**When Family Size Shapes Child Migration: Gendered Trade-Offs in Rural-to-Urban Migration in China**](https://yutao-wang-econ.github.io/files/Ho,%20Wang,%20and%20Zuo%20(2024)%20Family%20Size%20and%20Child%20Migration.pdf) (with [Christine Ho](https://sites.google.com/site/christineho5) and [Sharon Xuejing Zuo](https://sites.google.com/site/sharonxuejingzuo/home))
-   <br /><span style="color: black;"><sub>_Presentations: AMES 2024 (Hangzhou), AMES 2024 (Ho Chi Minh)\*, SMU Applied Micro Workshop 2023, AMES 2023 (Beijing)*, AMES 2023 (Singapore), CCER Summer Institute*, MWIEDC 2023*, RES 2023*, SEHO 2023*, Exeter Diversity and Human Capital Workshop*, GLO Global Conference 2022, Fudan Forum of Public Economics and Policy, Hamilton\*, SMU Brownbag Workshop Series 2022, Fordham\*, Jinan IESR\*, Southampton\*, and University of Macau\*._</sub></span> <br /> 
+   <!--
+  <br /><span style="color: black;"><sub>_Presentations: AMES 2024 (Hangzhou), AMES 2024 (Ho Chi Minh)\*, SMU Applied Micro Workshop 2023, AMES 2023 (Beijing)*, AMES 2023 (Singapore), CCER Summer Institute*, MWIEDC 2023*, RES 2023*, SEHO 2023*, Exeter Diversity and Human Capital Workshop*, GLO Global Conference 2022, Fudan Forum of Public Economics and Policy, Hamilton\*, SMU Brownbag Workshop Series 2022, Fordham\*, Jinan IESR\*, Southampton\*, and University of Macau\*._</sub></span> <br />
+  -->
   <!---
     **<span style="color: #a60000;"> (New Draft!)</span>**
   --->
