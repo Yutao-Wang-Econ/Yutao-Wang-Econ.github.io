@@ -85,4 +85,8 @@ author_profile: true
 - Research Assistant to Prof. Christine Ho, Singapore Management University, 2022–2025
 - Research Assistant to Prof. Jing Li, Singapore Management University, 2021
 
-
+------
+### Recent Presentation News
+- **2025.06**: 🎉 my paper was presented at [Hong Kong Labor Symposium 2025](https://www.hkubs.hku.hk/event/hong-kong-labor-symposium-2025/).
+- **2025.06**: 🎉 my paper was presented at [Barcelona School of Economics (BSE) Summer Forum – Income Dynamics and the Family 2025*](https://bse.eu/summer-forum/workshops/income-dynamics-family).
+- **2025.05**: 🎉 my paper was presented at [NBER Conference – Fertility and Declining Population Growth in High-Income Countries 2025*](https://www-nber-org.libproxy.smu.edu.sg/conferences/fertility-and-declining-population-growth-high-income-countries-spring-2025).
