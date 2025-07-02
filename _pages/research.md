@@ -87,7 +87,7 @@ author_profile: true
 
 ------
 ### Recent Presentation News
-_(\* presented by coauthors)_
+_(\*: presented by coauthor(s))_
 - **2025.08**: 🎉 presentation at [World Congress of the Econometric Society 2025](https://www.econometricsociety.org/regional-activities/schedule/2025/08/18/2025-World-Congress-Seoul-Korea).
 - **2025.06**: 🎉 presentation at [Hong Kong Labor Symposium 2025](https://www.hkubs.hku.hk/event/hong-kong-labor-symposium-2025/).
 - **2025.06**: 🎉 presentation at [Barcelona School of Economics (BSE) Summer Forum 2025\*](https://bse.eu/summer-forum/workshops/income-dynamics-family).
