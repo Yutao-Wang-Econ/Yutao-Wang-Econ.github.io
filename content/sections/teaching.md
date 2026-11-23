@@ -1,6 +1,5 @@
 __Instructor, Fudan University__  
 Introduction to the Application of Data Analysis Methods (Undergraduate), Spring 2027  
-Classic Readings and Academic Writing in Public Finance (Undergraduate), Fall 2027  
 
 __Teaching Assistant, Singapore Management University__  
 COR2100 Economics and Society (Undergraduate), Spring 2025  
